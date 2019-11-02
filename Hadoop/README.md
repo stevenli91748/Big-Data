@@ -2,7 +2,9 @@
 
 
 
+# 视频
 
+  [尚硅谷Hadoop_2019最新](https://www.bilibili.com/video/av64039568/?spm_id_from=333.788.videocard.0)
 
 
 
