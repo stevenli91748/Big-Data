@@ -18,3 +18,4 @@
 * [大规模集群下的Hadoop高并发以及高性能架构原理总结](https://mp.weixin.qq.com/s/e49b-yrPbwHudwRvcs-Tfw)
 * [大数据学习路线（完整详细版，含整套教程）](https://blog.csdn.net/CSDN_fzs/article/details/78984845)
 * [大数据全栈技术与平台架构设计](https://blog.csdn.net/Peter_Changyb/article/details/88661912)
+* [尚硅谷大数据项目之电商数仓](https://www.bilibili.com/video/av55253332?from=search&seid=4161032852445617805)
