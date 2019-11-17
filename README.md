@@ -9,7 +9,7 @@ Linux|Kafka|Sqoop|Azkaban|Oozie|HBase|
 # 视频
 
 * [尚硅谷大数据视频_电信客服项目](https://www.bilibili.com/video/av40566659?from=search&seid=5616888746108717258)
-
+* [尚硅谷大数据项目之电商推荐系统](https://www.bilibili.com/video/av68423911?from=search&seid=5294401660402202118)
 
 # 有用的参考
 
