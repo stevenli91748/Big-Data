@@ -1,8 +1,14 @@
 # [大数据面试](https://github.com/stevenli91748/Big-Data/blob/master/interview.md)
 
-[Spark](https://github.com/stevenli91748/Big-Data/blob/master/Spark/README.md)|[Hadoop](https://github.com/stevenli91748/Big-Data/blob/master/Hadoop/README.md)|[Hive](https://github.com/stevenli91748/Big-Data/blob/master/Hive/README.md)|[Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/README.md)|
----|---|---|---|
+[Spark](https://github.com/stevenli91748/Big-Data/blob/master/Spark/README.md)|[Hadoop](https://github.com/stevenli91748/Big-Data/blob/master/Hadoop/README.md)|[Hive](https://github.com/stevenli91748/Big-Data/blob/master/Hive/README.md)|[Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/README.md)|Zookeeper|HA|Flume|
+---|---|---|---|---|---|---|
 
+Linux|Kafka|Sqoop|Azkaban|Oozie|HBase|
+---|---|---|---|---|---|
+
+# 视频
+
+* [尚硅谷大数据视频_电信客服项目](https://www.bilibili.com/video/av40566659?from=search&seid=5616888746108717258)
 
 
 # 有用的参考
