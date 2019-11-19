@@ -13,6 +13,8 @@ Linux|Kafka|Sqoop|Azkaban|Oozie|HBase|
 * [尚硅谷大数据项目之电商数仓](https://www.bilibili.com/video/av55253332?from=search&seid=2329343007218467895 "该项目以国内电商巨头实际业务应用场景为依托，紧跟大数据主流需求，对电商数仓的常见实战指标以及难点实战指标进行了详尽讲解，让你迅速成长，获取最前沿的技术经验,项目架构
 Nginx、SpringBoot + MySql + Flume + Kafka + Sqoop + Hadoop + Logstash + Zookeeper")
 
+* [尚硅谷大数据全套视频教程40阶段（2019.6月线下班](https://www.bilibili.com/video/av75859780?from=search&seid=2329343007218467895)
+
 
 # 有用的参考
 
