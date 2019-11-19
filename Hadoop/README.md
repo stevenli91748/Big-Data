@@ -4,8 +4,8 @@
 
 # 视频
 
-  [尚硅谷Hadoop_2019最新](https://www.bilibili.com/video/av64039568/?spm_id_from=333.788.videocard.0)
-
+* [尚硅谷Hadoop_2019最新](https://www.bilibili.com/video/av64039568/?spm_id_from=333.788.videocard.0)
+* [尚硅谷】大数据之Hadoop](https://www.bilibili.com/video/av31970947?from=search&seid=8155618847316669100)
 
 
 # 有用的参考
