@@ -6,6 +6,20 @@
 Linux|Kafka|Sqoop|Azkaban|Oozie|HBase|
 ---|---|---|---|---|---|
 
+# 第九阶段  大数据运维
+# 第八阶段  云计算集群实战 一切核心技术的底层支持
+# 第七阶段  千万级訪问量集群实战
+# 第六阶段  百万级訪问量集群实战
+# 第五阶段  大数据Flink生态体系
+# 第四阶段  大数据Spark生态体系
+# 第三阶段  Hadoop生态体系
+# 第二阶段  JAVAEE核心
+# 第一阶段  Java
+
+
+
+
+
 # 视频
 
 * [尚硅谷大数据视频_电信客服项目](https://www.bilibili.com/video/av40566659?from=search&seid=5616888746108717258)
