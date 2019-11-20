@@ -12,11 +12,12 @@ Linux|Kafka|Sqoop|Azkaban|Oozie|HBase|
 # 第六阶段  百万级訪问量集群实战
 # 第五阶段  大数据Flink生态体系
 # 第四阶段  大数据Spark生态体系
+# 第三阶段  Hadoop生态体系
 
-1.大数据概论|[Hadoop](https://github.com/stevenli91748/Big-Data/blob/master/Hadoop/README.md)|完全分布式模式|HDFS|
+大数据概论|[Hadoop](https://github.com/stevenli91748/Big-Data/blob/master/Hadoop/README.md)|完全分布式模式|HDFS|
 ---|---|---|---|
 
-# 第三阶段  Hadoop生态体系
+
 # 第二阶段  JAVAEE核心
 # 第一阶段  Java
 
