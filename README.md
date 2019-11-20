@@ -8,12 +8,36 @@ Linux|Kafka|Sqoop|Azkaban|Oozie|HBase|
 
 # 第九阶段  大数据运维
 # 第八阶段  云计算集群实战 一切核心技术的底层支持
+
+Hadoop集群|HDFS集群与MapReduce集群|Zookeeper集群与Hive集群|
+---|---|---|
+
+Impala集群和Flume集群|Kafka集群与 HBase集群|Sqoop集群和Azkaban集群|HUE集群和Kylin集群|
+---|---|---|---|
+
+
 # 第七阶段  千万级訪问量集群实战
+
+千万级批量部署和集群详解|高并发负载均衡性集群|Heartbeat高可用集群和KeepAlived|
+----|---|---|
+
+透明代理和反向代理集群|OpenStack云计算集群|
+---|----|
+
+ISCSI网络存储和RHCS集群|千万级存储集群|Zabbix监控集群和Nagios监控|kubernetes集群平台|
+---|---|---|---|
+
+
 # 第六阶段  百万级訪问量集群实战
 
 [Linux网络基础](https://github.com/stevenli91748/Linux/blob/master/Linux服务管理/Linux网络基础/README.md)|
 ---|
 
+中小型集群存储实战|WEB集群企业级实战|企业级反向代理集群实战|企业级ELK日志集群解决方案|
+---|---|---|---|
+
+邮件集群实战|Tomcat集群与存储集群|MySQL集群管理|
+---|---|---|
 
 
 # 第五阶段  大数据Flink生态体系
