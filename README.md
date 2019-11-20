@@ -32,6 +32,8 @@ Hive查询|Hive JOIN & 排序|Hive分桶 & 函数|Hive函数 & 压缩|企业级�
 Kafka|Hbase|Sqoop|Kylin|Azkaban|Oozie|Kettle|ClickHouse|Cloudera Manager|
 ---|---|---|---|---|---|---|---|---|
 
+Impala安装|Impala操作|HUE|Kudu|CDH升级安装组件|Presto|Druid|Ambari|
+---|---|---|---|---|---|---|---|
 
 # 第二阶段  JAVAEE核心
 # 第一阶段  Java
