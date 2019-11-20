@@ -17,8 +17,8 @@ Linux|Kafka|Sqoop|Azkaban|Oozie|HBase|
 大数据概论|[Hadoop](https://github.com/stevenli91748/Big-Data/blob/master/Hadoop/README.md)|完全分布式模式|HDFS入门|HDFS的API操作|
 ---|---|---|---|---|
 
-HDFS的框架原理|NN & DN工作机制|DN工作机制&新特性|新特性& HA框架|
----|---|---|---|
+HDFS的框架原理|NN & DN工作机制|DN工作机制&新特性|新特性& HA框架|HDFS-HA集群配置|MapReduce框架|Shuffle机制|
+---|---|---|---|----|---|---|
 
 # 第二阶段  JAVAEE核心
 # 第一阶段  Java
