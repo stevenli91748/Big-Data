@@ -20,6 +20,10 @@ Linux|Kafka|Sqoop|Azkaban|Oozie|HBase|
 HDFS的框架原理|NN & DN工作机制|DN工作机制&新特性|新特性& HA框架|HDFS-HA集群配置|
 ---|---|---|---|----|
 
+数据压缩 & Yarn|MapReduce案例|Hadoop 3.x新特性|Hadoop3.x安装使用|Zookeeper原理|Hive入门&安装| Hive远程连接|
+---|---|---|---|---|---|---|
+
+
 # 第二阶段  JAVAEE核心
 # 第一阶段  Java
 
