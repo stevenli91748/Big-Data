@@ -35,6 +35,9 @@ Kafka|Hbase|Sqoop|Kylin|Azkaban|Oozie|Kettle|ClickHouse|Cloudera Manager|
 Impala安装|Impala操作|HUE|Kudu|CDH升级安装组件|Presto|Druid|Ambari|
 ---|---|---|---|---|---|---|---|
 
+DataX|Elasticsearch入门|Logstash|
+---|---|---|
+
 # 第二阶段  JAVAEE核心
 # 第一阶段  Java
 
