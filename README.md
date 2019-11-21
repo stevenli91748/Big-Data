@@ -67,7 +67,7 @@ HDFS的框架原理|NN & DN工作机制|DN工作机制&新特性|新特性& HA�
 Hive入门&安装| Hive远程连接|Hive命令 & 数据倉库|Hive DDL数据定义|Hive DML数据操作|
 ---|---|---|---|---|
 
-Hive查询|Hive JOIN & 排序|Hive分桶 & 函数|Hive函数 & 压缩|企业级调优|Hive项目实战|Flume|
+Hive查询|Hive JOIN & 排序|Hive分桶 & 函数|Hive函数 & 压缩|企业级调优|Hive项目实战|[Flume](https://github.com/stevenli91748/Big-Data/blob/master/Flume/README.md)|
 ---|---|---|---|---|---|---|
 
 Kafka|Hbase|Sqoop|Kylin|Azkaban|Oozie|Kettle|ClickHouse|Cloudera Manager|
