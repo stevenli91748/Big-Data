@@ -95,7 +95,7 @@ DataX|Elasticsearch入门|Logstash|
 Nginx、SpringBoot + MySql + Flume + Kafka + Sqoop + Hadoop + Logstash + Zookeeper")
 
 * [尚硅谷大数据全套视频教程40阶段（2019.6月线下班](https://www.bilibili.com/video/av75859780?from=search&seid=2329343007218467895)
-
+* [2019最新 基于阿里云搭建数据仓库（阿里云大学-尚硅谷联合出版）](https://www.bilibili.com/video/av73122769?from=search&seid=9033751080077605885)
 
 # 有用的参考
 
