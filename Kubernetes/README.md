@@ -12,7 +12,7 @@
 [k8s-8-用label控制pod位置](https://www.bilibili.com/video/av67387104)|[k8s-9-deamonset的应用和案例](https://www.bilibili.com/video/av67394882)|[k8s-10-运行一个daemonSet](https://www.bilibili.com/video/av67394965)|
 ---|---|---|
 
-[k8s-11-job运行一次性任务](https://www.bilibili.com/video/av67395073)|[k8s-12-job运行失败怎么办k8s-12-job运行失败怎么办](https://www.bilibili.com/video/av67395135)|[k8s-13-并行执行job](https://www.bilibili.com/video/av67395198)|
+[k8s-11-job运行一次性任务](https://www.bilibili.com/video/av67395073)|[k8s-12-job运行失败怎么办](https://www.bilibili.com/video/av67395135)|[k8s-13-并行执行job](https://www.bilibili.com/video/av67395198)|
 ---|---|---|
 
 [k8s-14-定时执行job](https://www.bilibili.com/video/av67395290)|
