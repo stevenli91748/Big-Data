@@ -8,7 +8,7 @@ Linux|Kafka|Sqoop|Azkaban|Oozie|HBase|
 
 # 大数据 Demo 实验
 
-[本地+分布式Hadoop完整搭建过程](https://juejin.im/post/6863649365933129741)[Hadoop完整搭建过程（一）：本地模式](https://juejin.im/post/6863645182227808269)|[Hadoop完整搭建过程（二）：伪分布模式](https://juejin.im/post/6863645761696071687)|
+[本地+分布式Hadoop完整搭建过程](https://juejin.im/post/6863649365933129741)|[Hadoop完整搭建过程（一）：本地模式](https://juejin.im/post/6863645182227808269)|[Hadoop完整搭建过程（二）：伪分布模式](https://juejin.im/post/6863645761696071687)|
 ---|---|---|
 
 [Hadoop完整搭建过程（三）：完全分布模式（虚拟机）](https://juejin.im/post/6863647108348674062)|[Hadoop完整搭建过程（四）：完全分布模式（服务器）](https://juejin.im/post/6863648018282283015)|
