@@ -1,4 +1,8 @@
 
+[精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|
+---|
+
+
 [k8s安装-上](https://www.bilibili.com/video/av67180400)|[k8s安装—中](https://www.bilibili.com/video/av67202797)|[k8s安装-下](https://www.bilibili.com/video/av67203001)|
 ---|---|---|
 
