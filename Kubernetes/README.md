@@ -34,5 +34,6 @@
 
 
 # 有用的参考
+* [k8S 搭建集群](https://www.shuzhiduo.com/A/Ae5RKvVYdQ/)
 * [Kubernetes 是什么？](https://kubernetes.io/zh/docs/concepts/overview/what-is-kubernetes/)
 * [分享我的k8s学习过程](https://zhuanlan.zhihu.com/p/262181124?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
