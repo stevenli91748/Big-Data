@@ -41,3 +41,4 @@
 * [k8S 搭建集群](https://www.shuzhiduo.com/A/Ae5RKvVYdQ/)
 * [Kubernetes 是什么？](https://kubernetes.io/zh/docs/concepts/overview/what-is-kubernetes/)
 * [分享我的k8s学习过程](https://zhuanlan.zhihu.com/p/262181124?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [一文带你彻底厘清 Kubernetes 中的证书工作机制](https://zhuanlan.zhihu.com/p/142990931)
