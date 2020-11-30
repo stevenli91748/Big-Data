@@ -22,6 +22,10 @@
 [k8s-14-定时执行job](https://www.bilibili.com/video/av67395290)|
 ---|
 
+[为Kubernetes集群中服务部署Nginx入口服务](https://tonybai.com/2016/11/22/deploy-nginx-service-for-the-services-in-kubernetes-cluster/)|[Kubernetes集群中的Nginx配置热更新方案](https://tonybai.com/2016/11/17/nginx-config-hot-reloading-approach-for-kubernetes-cluster/)|[Kubernetes集群DNS插件安装](https://tonybai.com/2016/10/23/install-dns-addon-for-k8s/)|
+---|---|
+
+
 
 # Kubernetes 视频
 
