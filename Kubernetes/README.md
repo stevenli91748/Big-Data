@@ -25,8 +25,8 @@
 [为Kubernetes集群中服务部署Nginx入口服务](https://tonybai.com/2016/11/22/deploy-nginx-service-for-the-services-in-kubernetes-cluster/)|[Kubernetes集群中的Nginx配置热更新方案](https://tonybai.com/2016/11/17/nginx-config-hot-reloading-approach-for-kubernetes-cluster/)|[Kubernetes集群DNS插件安装](https://tonybai.com/2016/10/23/install-dns-addon-for-k8s/)|[Kubernetes从Private Registry中拉取容器镜像的方法](https://tonybai.com/2016/11/16/how-to-pull-images-from-private-registry-on-kubernetes-cluster/)|
 ---|---|---|---|
 
-[在kubernetes中部署tomcat与mysql集群](https://yq.aliyun.com/articles/506908)|
----|
+[在kubernetes中部署tomcat与mysql集群](https://yq.aliyun.com/articles/506908)|[k8s 部署tomcat完整版](https://blog.csdn.net/weixin_34120274/article/details/92600879?utm_medium=distribute.pc_relevant.none-task-blog-searchFromBaidu-9.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-searchFromBaidu-9.not_use_machine_learn_pai)|
+---|---|
 
 # Kubernetes 视频
 
