@@ -35,7 +35,7 @@
 * [尚硅谷Kubernetes](https://www.bilibili.com/video/av66617940/?spm_id_from=333.788.videocard.9)
 * [Kubernetes/K8S 集群环境搭建](https://www.bilibili.com/video/av76793551?from=search&seid=18371074308858678491)
 * [Jenkins+K8s实现持续集成](https://www.imooc.com/learn/1112)
-
+* [Manage Your Kubernetes Clusters with Built-in Best Practices---以 Azure Kubernetes Service 为例介绍了如何在托管 Kubernetes 集群上面实现高可用、高扩展、高安全、可观测的应用架构，是运行和维护 Kubernetes 应用最好的参考资料之一](https://info.microsoft.com/ww-thankyou-manage-your-kubernetes-clusters-with-built-in-best-practices-vdeo?LCID=EN-US)
 
 # 有用的参考
 * [k8S 搭建集群](https://www.shuzhiduo.com/A/Ae5RKvVYdQ/)
