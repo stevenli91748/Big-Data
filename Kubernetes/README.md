@@ -1,8 +1,8 @@
 
 # [Kubernetes面试知识点](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E9%9D%A2%E8%AF%95%E7%9F%A5%E8%AF%86%E7%82%B9/README.md)
 
-[精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|
----|
+[精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[Kubernetes API Reference ](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/)|
+---|---|
 
 
 [k8s安装-上](https://www.bilibili.com/video/av67180400)|[k8s安装—中](https://www.bilibili.com/video/av67202797)|[k8s安装-下](https://www.bilibili.com/video/av67203001)|
