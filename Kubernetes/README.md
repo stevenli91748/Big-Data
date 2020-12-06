@@ -15,7 +15,7 @@
     * [kubectl---与Kubernetes集群打交道的客户端]()
     * [API Server---接收kubectl客户端的请求]()
     * [Controller-Manaager---APIServer接收到请求后具体分配Worker Node进行内容创建]()
-      * [Replication control]()
+      * [Replication control](https://github.com/stevenli91748/Big-Data/tree/master/Kubernetes/Kubernetes%E7%BB%84%E4%BB%B6/master%E8%8A%82%E7%82%B9/Controller-Manaager)
       * [Namespace]()
       * [Service]()
     * [Scheduler---APIServer接收到请求后通过Scheduler的调度策略选择对应的Worker node]()
