@@ -24,6 +24,8 @@
      * [kubelet---调用Docker Engine创建对应的pod]()
      * [Kube-proxy---维护节点上的网络规则。这些网络规则允许从集群内部或外部的网络会话与 Pod 进行网络通信]()
      * [Pod]()
+       * [Pause容器]()
+       * [业务容器]()
 ---
 
 # Kubernetes 特性
