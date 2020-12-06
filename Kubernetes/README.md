@@ -10,7 +10,19 @@
 
 * [Kubernetes实验](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E5%AE%9E%E9%AA%8C/README.md)
 * [Kubernetes 特性](#Kubernetes-特性)
-
+* [Kubernetes组件]()
+  * [Master Node]()
+    * [API Server]()
+    * [Controller-Manaager]()
+      * [Replication]()
+      * [Namespace]()
+      * [Service]()
+    * [Scheduler]()
+    * [ETCD]()
+  * [Worker Node]()
+     * [kubelet]()
+     * [Kube-proxy]()
+     * [Pod]()
 ---
 
 # Kubernetes 特性
