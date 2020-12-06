@@ -4,9 +4,9 @@
 [精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|
 ---|---|
 
-# 目录
-
 <a href="https://ibb.co/mqHJ8Fc"><img src="https://i.ibb.co/wWKysrz/kubernetes.png" alt="kubernetes" border="0"></a>
+
+# 目录
 
 * [Kubernetes实验](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E5%AE%9E%E9%AA%8C/README.md)
 * [Kubernetes 特性](#Kubernetes-特性)
