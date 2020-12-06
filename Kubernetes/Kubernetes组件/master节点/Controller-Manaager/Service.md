@@ -1,9 +1,9 @@
 **Service （服务）是分布式集群架构的核心， 一个Service 对象拥有如下关键特征。**
 
-。拥有一个唯一指定的名字（比如mysq l-server ）。
-。拥有一个虚拟E (Cluster E 、Service IP 或VIP ）和端口号。
-。能够提供某种远程服务能力。
-。被映射到了提供这种服务能力的一组容器应用上。
+* 拥有一个唯一指定的名字（比如mysq l-server ）。
+* 拥有一个虚拟E (Cluster E 、Service IP 或VIP ）和端口号。
+* 能够提供某种远程服务能力。
+* 被映射到了提供这种服务能力的一组容器应用上。
 
 **Service 的服务进程目前都基于Socket 通信方式对外提供服务，比如Redis 、Memcache 、MySQL 、Web Server ，或者是实现了某个具体业务的一个特定
 的TCP K凹er 进程。虽然一个Service 通常由多个相关的服务进程来提供服务，每个服务进程都有一个独立的EndpointCIP+Port ）访问点，但Kubemetes 
