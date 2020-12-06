@@ -8,6 +8,8 @@
  * kubernetes 自动重启实验
  * kubernetes 自动复制实验
  * kubernetes 自动伸缩实验
+ * kubernetes 服务滚动升级实验
+ * kubernetes 资源自动调度机制实验
  * kubernetes 模块化实验
  * kubernetes 插件化实验
  * kubernetes 可挂载实验
