@@ -4,6 +4,22 @@
 [精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|
 ---|---|
 
+# 目录
+* [Kubernetes实验](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E5%AE%9E%E9%AA%8C/README.md)
+* [Kubernetes 特性](#Kubernetes-特性)
+
+---
+
+# Kubernetes 特性
+
+   kubernetes优势:
+   
+  （1）可移动：公有云、私有云、混合云、多态云
+  （2）可扩展：模块化、插件化、可挂载、可组合
+  （3）自修复：自动部署、自动重启、自动复制、自动伸缩
+
+
+
 
 [k8s安装-上](https://www.bilibili.com/video/av67180400)|[k8s安装—中](https://www.bilibili.com/video/av67202797)|[k8s安装-下](https://www.bilibili.com/video/av67203001)|
 ---|---|---|
