@@ -3,6 +3,7 @@
 * [Kubernetes安装例子](#Kubernetes安装例子)
 * [SpringCloud应用在Kubernetes上的最佳实践](#SpringCloud应用在Kubernetes上的最佳实践)
 
+---
 
 # 项目完整例子
 * [lvs+keepalived部署k8s v1.16.4高可用集群例子](https://www.kubernetes.org.cn/6634.html)
