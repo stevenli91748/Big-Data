@@ -9,6 +9,9 @@
 [精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|
 ---|---|
 
+[lvs+keepalived部署k8s v1.16.4高可用集群例子](https://www.kubernetes.org.cn/6634.html)|[利用 kubeadm 创建高可用集群例子](https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/high-availability/)|
+---|---|
+
 # 目录
 
 * [Kubernetes实验](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E5%AE%9E%E9%AA%8C/README.md)
