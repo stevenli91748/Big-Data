@@ -14,6 +14,7 @@
 * [Kubernetes教程之新手安装必看（快速浏览少走弯路）](https://segmentfault.com/a/1190000022809164)
 * [ Kubernetes 18.04集群安装教程(基于Centos7)](https://learnku.com/docs/go-micro-build/1.0/kubernetes-1804-cluster-installation-tutorial-based-on-centos7/8877)
 * [kubeadm安装Kubernetes V1.10集群详细文档](https://www.kubernetes.org.cn/3808.html)
+* [深入玩转K8S之使用kubeadm安装Kubernetes v1.10以及常见问题解答](https://blog.51cto.com/devingeng/2096495?source=drt)
 
 # SpringCloud应用在Kubernetes上的最佳实践
 
