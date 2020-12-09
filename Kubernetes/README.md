@@ -36,9 +36,17 @@
 * [Kubernetes网络原理](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/README.md)
 * [Kubernetes管理工具]()       
   * [开发工具]()
+    * [深入玩转K8S之Kubernetes1.10中部署dashboard以及常见问题解析](https://blog.51cto.com/devingeng/2096639?source=drt)
+    * [kubernetes之Ingress部署](https://blog.51cto.com/newfly/2060587?source=drt)
+    * [分布式消息队列RocketMQ部署与监控](https://blog.51cto.com/sofar/1540874?source=drt)
   * [部署测试工具]()
   * [运维监控工具]()
-  
+     * [使用Prometheus+grafana打造高逼格监控平台](https://blog.51cto.com/youerning/2050543?source=drt)
+     * [Kubernetes之利用prometheus监控K8S集群](https://blog.51cto.com/newfly/2061135?source=drt)
+     * [用Prometheus细化Nginx监控](https://blog.51cto.com/xujpxm/2080146?source=drt)
+     * [Kubernetes集群监控方案](https://blog.51cto.com/ylw6006/2084403?source=drt)
+     * [Grafana的使用感受](https://blog.51cto.com/13728665/2114392?source=drt)
+     * [Kubernetes+Prometheus+Grafana部署笔记](https://blog.51cto.com/kaliarch/2160569?source=drt)
   
 ---
 
@@ -96,3 +104,7 @@
 * [Kubernetes 是什么？](https://kubernetes.io/zh/docs/concepts/overview/what-is-kubernetes/)
 * [分享我的k8s学习过程](https://zhuanlan.zhihu.com/p/262181124?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [一文带你彻底厘清 Kubernetes 中的证书工作机制](https://zhuanlan.zhihu.com/p/142990931)
+
+---
+
+* []()
