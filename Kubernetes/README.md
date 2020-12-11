@@ -96,6 +96,7 @@
 * [Manage Your Kubernetes Clusters with Built-in Best Practices---以 Azure Kubernetes Service 为例介绍了如何在托管 Kubernetes 集群上面实现高可用、高扩展、高安全、可观测的应用架构，是运行和维护 Kubernetes 应用最好的参考资料之一](https://info.microsoft.com/ww-thankyou-manage-your-kubernetes-clusters-with-built-in-best-practices-vdeo?LCID=EN-US)
 
 # 有用的参考
+* [kubectl技巧之查看资源列表,资源版本和资源schema配置](https://www.cnblogs.com/tylerzhou/p/11043285.html)
 * [KubeOperator 是一个开源的轻量级 Kubernetes 发行版](https://github.com/KubeOperator/KubeOperator)
 * [kubernetes中文社区](https://www.kubernetes.org.cn/)
 * [Kubernetes教程之新手安装必看（快速浏览少走弯路）](https://segmentfault.com/a/1190000022809164)
