@@ -98,6 +98,7 @@
 * [Manage Your Kubernetes Clusters with Built-in Best Practices---以 Azure Kubernetes Service 为例介绍了如何在托管 Kubernetes 集群上面实现高可用、高扩展、高安全、可观测的应用架构，是运行和维护 Kubernetes 应用最好的参考资料之一](https://info.microsoft.com/ww-thankyou-manage-your-kubernetes-clusters-with-built-in-best-practices-vdeo?LCID=EN-US)
 
 # 有用的参考
+* [Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 * [Kubernetes 集群搭建 v1.19.3](https://blog.csdn.net/Liing0/article/details/111060199)
 * [使用Kuboard界面在k8s上部署SpringCloud项目](https://www.cnblogs.com/sanduzxcvbnm/p/13207317.html)
 * [Kuboard v3.0 ---支持多 Kubernetes 集群管理](https://kuboard.cn/install/install-dashboard.html)
