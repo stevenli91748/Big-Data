@@ -40,6 +40,8 @@
     * [kubernetes之Ingress部署](https://blog.51cto.com/newfly/2060587?source=drt)
     * [分布式消息队列RocketMQ部署与监控](https://blog.51cto.com/sofar/1540874?source=drt)
   * [部署测试工具]()
+    * [调试集群](https://kubernetes.io/zh/docs/tasks/debug-application-cluster/debug-cluster/)
+    * [调试那些部署到 Kubernetes 上后没有正常运行的应用](https://kubernetes.io/zh/docs/tasks/debug-application-cluster/debug-application/)
   * [运维监控工具]()
      * [使用Prometheus+grafana打造高逼格监控平台](https://blog.51cto.com/youerning/2050543?source=drt)
      * [Kubernetes之利用prometheus监控K8S集群](https://blog.51cto.com/newfly/2061135?source=drt)
