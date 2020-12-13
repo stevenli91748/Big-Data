@@ -101,7 +101,7 @@
 
 * [Kubernetes 集群搭建 v1.19.3](https://blog.csdn.net/Liing0/article/details/111060199)
 * [使用Kuboard界面在k8s上部署SpringCloud项目](https://www.cnblogs.com/sanduzxcvbnm/p/13207317.html)
-* [Kuboard v3.0 ---支持多 Kubernetes 集群管理](https://kuboard.cn/install/install-dashboard.html)
+
 * [kubectl技巧之查看资源列表,资源版本和资源schema配置](https://www.cnblogs.com/tylerzhou/p/11043285.html)
 * [KubeOperator 是一个开源的轻量级 Kubernetes 发行版](https://github.com/KubeOperator/KubeOperator)
 * [kubernetes中文社区](https://www.kubernetes.org.cn/)
@@ -117,5 +117,5 @@
 # online gitbook
 
 * [Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
+* [Kuboard v3.0 ---支持多 Kubernetes 集群管理](https://kuboard.cn/install/install-dashboard.html)
 
-* []()
