@@ -9,6 +9,9 @@
 [精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|
 ---|---|---|
 
+[阿里巴巴 云原生技术实践公开课---从零开始实践 Kubernetes](https://developer.aliyun.com/learning/roadmap/cloudnative2020)|
+---|
+
 
 
 # 目录
