@@ -42,7 +42,7 @@
 ## Kubernetes通信
 
 * [Kubernetes中容器到容器通信](https://www.kubernetes.org.cn/8688.html)
-
+* [Kubernetes 容器网络模型和典型实现](https://www.kubernetes.org.cn/8461.html)
 ## Kubernetes监控
 * [使用mongodb-exporter在prometheus+grafana上实现对mongodb监控](https://www.kubernetes.org.cn/7451.html)
 * [使用redis-exporter对redis集群进行性能监控](https://www.kubernetes.org.cn/7616.html)
