@@ -48,7 +48,7 @@
 * [使用redis-exporter对redis集群进行性能监控](https://www.kubernetes.org.cn/7616.html)
 * [kubernetes-Prometheus基于邮件告警](https://www.kubernetes.org.cn/7145.html)
 * [kubernetes-基于Prometheus和Grafana监控rabbitmq（rabbitmq-exporter）](https://www.kubernetes.org.cn/7130.html)
-
+* [Prometheus监控Kubernetes的3个配置挑战](https://www.kubernetes.org.cn/8533.html)
 
 
 # SpringCloud应用在Kubernetes上的最佳实践
