@@ -49,6 +49,10 @@
 * [kubernetes-Prometheus基于邮件告警](https://www.kubernetes.org.cn/7145.html)
 * [kubernetes-基于Prometheus和Grafana监控rabbitmq（rabbitmq-exporter）](https://www.kubernetes.org.cn/7130.html)
 * [Prometheus监控Kubernetes的3个配置挑战](https://www.kubernetes.org.cn/8533.html)
+* [手把手教你使用 Prometheus 监控 JVM](https://www.kubernetes.org.cn/8515.html)
+* [Prometheus Metrics 设计的最佳实践和应用实例，看这篇够了](https://www.kubernetes.org.cn/8481.html)
+
+
 
 
 # SpringCloud应用在Kubernetes上的最佳实践
