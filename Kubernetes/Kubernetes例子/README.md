@@ -17,6 +17,10 @@
 * [深入玩转K8S之使用kubeadm安装Kubernetes v1.10以及常见问题解答](https://blog.51cto.com/devingeng/2096495?source=drt)
 * [【kafaka】在Kubernetes上使用helm部署kafka](https://www.kubernetes.org.cn/7592.html)
 * [kubernetes-部署RabbitMQ](https://www.kubernetes.org.cn/6580.html)
+* [kubernetes-部署Oracle数据库](https://www.kubernetes.org.cn/6498.html)
+* [在现有 Kubernetes 集群安装 KubeSphere](https://www.kubernetes.org.cn/5718.html)
+* [二进制部署Kubernetes v1.13.4 HA可选](https://www.kubernetes.org.cn/5163.html)
+* [在现有 Kubernetes 集群安装 KubeSphere](https://www.kubernetes.org.cn/5718.html)
 
 ## Kubernetes高可用
 * [lvs+keepalived部署k8s v1.16.4高可用集群例子](https://www.kubernetes.org.cn/6634.html)
