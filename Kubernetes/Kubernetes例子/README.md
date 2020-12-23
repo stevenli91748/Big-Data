@@ -21,6 +21,16 @@
 * [在现有 Kubernetes 集群安装 KubeSphere](https://www.kubernetes.org.cn/5718.html)
 * [二进制部署Kubernetes v1.13.4 HA可选](https://www.kubernetes.org.cn/5163.html)
 * [在现有 Kubernetes 集群安装 KubeSphere](https://www.kubernetes.org.cn/5718.html)
+* [Kubernetes-部署API网关Kong](https://www.kubernetes.org.cn/4952.html)
+* [kubernetes1.13.1+etcd3.3.10+flanneld0.10集群部署](https://www.kubernetes.org.cn/5025.html)
+* [k8s配置calico,以及配置ip固定](https://www.kubernetes.org.cn/4289.html)
+* [kubeadm HA master(v1.14.0)离线包 + 自动化脚本 + 常用插件 For Centos/Fedora](https://www.kubernetes.org.cn/5213.html)
+* [Kunbernetes-容器云应用的安装部署工具Helm](https://www.kubernetes.org.cn/4009.html)
+* [纯手工搭建k8s集群-序](https://www.kubernetes.org.cn/3786.html)
+  * [纯手工搭建k8s集群-(一)预先准备环境](https://www.kubernetes.org.cn/3787.html)
+  * [纯手工搭建k8s集群-(二)核心模块部署](https://www.kubernetes.org.cn/3788.html)
+  * [纯手工搭建k8s集群-(三)认证授权和服务发现](https://www.kubernetes.org.cn/3789.html)
+
 
 ## Kubernetes高可用
 * [lvs+keepalived部署k8s v1.16.4高可用集群例子](https://www.kubernetes.org.cn/6634.html)
