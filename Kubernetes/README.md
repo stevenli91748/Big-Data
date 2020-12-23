@@ -55,6 +55,7 @@
 * [Kubernetes网络原理](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/README.md)
 * [Kubernetes管理工具]()       
   * [开发工具]()
+    * [如何基于 K8s 构建下一代 DevOps 平台？](https://www.kubernetes.org.cn/8351.html)
     * [深入玩转K8S之Kubernetes1.10中部署dashboard以及常见问题解析](https://blog.51cto.com/devingeng/2096639?source=drt)
     * [kubernetes之Ingress部署](https://blog.51cto.com/newfly/2060587?source=drt)
     * [分布式消息队列RocketMQ部署与监控](https://blog.51cto.com/sofar/1540874?source=drt)
