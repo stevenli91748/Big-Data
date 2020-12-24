@@ -124,7 +124,7 @@
 # 有用的参考
 * [Kubernetes 集群搭建 v1.19.3](https://blog.csdn.net/Liing0/article/details/111060199)
 * [使用Kuboard界面在k8s上部署SpringCloud项目](https://www.cnblogs.com/sanduzxcvbnm/p/13207317.html)
-
+* [云原生存储详解：容器存储与 K8s 存储卷](https://www.kubernetes.org.cn/7866.html)
 * [kubectl技巧之查看资源列表,资源版本和资源schema配置](https://www.cnblogs.com/tylerzhou/p/11043285.html)
 * [KubeOperator 是一个开源的轻量级 Kubernetes 发行版](https://github.com/KubeOperator/KubeOperator)
 * [kubernetes中文社区](https://www.kubernetes.org.cn/)
