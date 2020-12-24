@@ -140,7 +140,7 @@
 ---
 
 # online gitbook
-* [容器服务Kubernetes版](https://help.aliyun.com/document_detail/86737.html?spm=a2c4g.11186623.4.1.60ee6ea3yhNq5I)
+* [阿里巴巴 容器服务Kubernetes版教程](https://help.aliyun.com/document_detail/86737.html?spm=a2c4g.11186623.4.1.60ee6ea3yhNq5I)
 * [Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 * [Kuboard v3.0 ---支持多 Kubernetes 集群管理](https://kuboard.cn/install/install-dashboard.html)
 * [Kubernetes实践指南](https://k8s.imroc.io/configuration/helm/install-helm/)
