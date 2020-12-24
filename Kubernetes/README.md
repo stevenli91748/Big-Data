@@ -76,7 +76,8 @@
     * [更新应用时，如何实现 K8s 零中断滚动更新？](https://www.kubernetes.org.cn/7714.html)
   * 通过负载均衡访问服务
     * [通过负载均衡访问服务](https://help.aliyun.com/document_detail/86531.html)
-  
+  * 容器服务 kubernetes中应用上下线
+    * [容器服务 kubernetes（ACK）中应用优雅上下线]()
   
 ---
 
