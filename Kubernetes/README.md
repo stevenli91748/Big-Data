@@ -73,6 +73,7 @@
   * 集群升级
     * [如何为 Kubernetes 实现原地升级](https://www.kubernetes.org.cn/7839.html)
     * [Kubernetes 集群升级指南：从理论到实践](https://www.kubernetes.org.cn/8504.html)
+    * [更新应用时，如何实现 K8s 零中断滚动更新？](https://www.kubernetes.org.cn/7714.html)
 
 ---
 
@@ -122,6 +123,7 @@
 * [Manage Your Kubernetes Clusters with Built-in Best Practices---以 Azure Kubernetes Service 为例介绍了如何在托管 Kubernetes 集群上面实现高可用、高扩展、高安全、可观测的应用架构，是运行和维护 Kubernetes 应用最好的参考资料之一](https://info.microsoft.com/ww-thankyou-manage-your-kubernetes-clusters-with-built-in-best-practices-vdeo?LCID=EN-US)
 
 # 有用的参考
+* [使用 KubeSphere 在 Kubernetes 安装 cert-manager 为网站启用 HTTPS](https://www.kubernetes.org.cn/8289.html)
 * [Kubernetes 集群搭建 v1.19.3](https://blog.csdn.net/Liing0/article/details/111060199)
 * [使用Kuboard界面在k8s上部署SpringCloud项目](https://www.cnblogs.com/sanduzxcvbnm/p/13207317.html)
 * [云原生存储详解：容器存储与 K8s 存储卷](https://www.kubernetes.org.cn/7866.html)
@@ -138,7 +140,7 @@
 ---
 
 # online gitbook
-
+* [容器服务Kubernetes版](https://help.aliyun.com/document_detail/86737.html?spm=a2c4g.11186623.4.1.60ee6ea3yhNq5I)
 * [Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 * [Kuboard v3.0 ---支持多 Kubernetes 集群管理](https://kuboard.cn/install/install-dashboard.html)
 * [Kubernetes实践指南](https://k8s.imroc.io/configuration/helm/install-helm/)
