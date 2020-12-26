@@ -141,6 +141,14 @@
 * [分享我的k8s学习过程](https://zhuanlan.zhihu.com/p/262181124?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [一文带你彻底厘清 Kubernetes 中的证书工作机制](https://zhuanlan.zhihu.com/p/142990931)
 * [Ingress文件实例](https://blog.csdn.net/qq_39680564/article/details/106220130)
+* [Kubernetes持续部署方案](https://blog.csdn.net/qq_39680564/article/details/106081751)
+* [Kubernetes研发环境搭建方案](https://blog.csdn.net/qq_39680564/article/details/106022212)
+* [Deployment部署实例](https://blog.csdn.net/qq_39680564/article/details/106002185)
+* [Service文件实例](https://blog.csdn.net/qq_39680564/article/details/106232120)
+* [Kubernetes](https://blog.csdn.net/qq_39680564/category_9985180.html)
+
+
+
 ---
 
 # online gitbook
