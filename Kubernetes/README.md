@@ -140,7 +140,7 @@
 * [Kubernetes 是什么？](https://kubernetes.io/zh/docs/concepts/overview/what-is-kubernetes/)
 * [分享我的k8s学习过程](https://zhuanlan.zhihu.com/p/262181124?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [一文带你彻底厘清 Kubernetes 中的证书工作机制](https://zhuanlan.zhihu.com/p/142990931)
-
+* [Ingress文件实例](https://blog.csdn.net/qq_39680564/article/details/106220130)
 ---
 
 # online gitbook
