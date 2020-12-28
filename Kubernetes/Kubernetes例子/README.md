@@ -25,13 +25,17 @@
   * [纯手工搭建k8s集群-(三)认证授权和服务发现](https://www.kubernetes.org.cn/3789.html)
 * [重新安装 K8S](http://www.dev-share.top/2019/12/11/%e9%87%8d%e6%96%b0%e5%ae%89%e8%a3%85-k8s/)
 
+### k8s部署java 程序
+* [K8S 部署 Java 程序](http://www.dev-share.top/2020/08/05/k8s-%e9%83%a8%e7%bd%b2-java-%e7%a8%8b%e5%ba%8f/)
 
-### k8s kubeSphere
+
+### k8s部署 kubeSphere
 * [在现有 Kubernetes 集群安装 KubeSphere](https://www.kubernetes.org.cn/5718.html)
 
-### k8s helm
+### k8s部署 helm
 * [Kunbernetes-容器云应用的安装部署工具Helm](https://www.kubernetes.org.cn/4009.html)
 * [Helm 安装/使用](http://www.dev-share.top/2020/07/16/helm-%e5%ae%89%e8%a3%85-%e4%bd%bf%e7%94%a8/)
+* [docker-compose 部署 Helm 私服仓库](http://www.dev-share.top/2020/07/21/docker-compose-%e9%83%a8%e7%bd%b2-helm-%e7%a7%81%e6%9c%8d%e4%bb%93%e5%ba%93/)
 
 ### k8s部署node.js
 * [K8s 部署node.js](http://www.dev-share.top/2019/05/28/k8s-%e9%83%a8%e7%bd%b2node-js/)
@@ -77,7 +81,7 @@
 * [K8s 在非master机器上使用kubectl 管理集群](http://www.dev-share.top/2019/06/13/k8s-%e5%9c%a8%e9%9d%9emaster%e6%9c%ba%e5%99%a8%e4%b8%8a%e4%bd%bf%e7%94%a8kubectl-%e7%ae%a1%e7%90%86%e9%9b%86%e7%be%a4/)
 * [k8s 安装 Rancher 2.x(企业级容器管理平台) 使用 cert-manager 版](http://www.dev-share.top/2020/07/16/k8s-%e5%ae%89%e8%a3%85-rancher-2-x-%e4%bd%bf%e7%94%a8-cert-manager-%e7%89%88/)
 * [k8s 安装 Rancher 2.x(企业级容器管理平台) 使用 Ingress-Controller 版](http://www.dev-share.top/2020/07/17/helm-%e5%ae%89%e8%a3%85-ingress-controller/)
-
+* [使用 Openssl 签发 https 域名证书， 并添加到k8s中](http://www.dev-share.top/2020/07/19/%e4%bd%bf%e7%94%a8-openssl-%e7%ad%be%e5%8f%91-https-%e5%9f%9f%e5%90%8d%e8%af%81%e4%b9%a6%ef%bc%8c-%e5%b9%b6%e6%b7%bb%e5%8a%a0%e5%88%b0k8s%e4%b8%ad/)
 
 ## Kubernetes通信
 
