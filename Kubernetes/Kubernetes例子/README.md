@@ -51,7 +51,7 @@
 
 ### k8s部署Dashboard 
 * [安装 K8S Dashboard (官方)](http://www.dev-share.top/2019/06/03/%e5%ae%89%e8%a3%85-k8s-dashboard-%e5%ae%98%e6%96%b9/)
-
+* [K8S dashboard 创建多用户并授予不同权限](http://www.dev-share.top/2020/04/20/k8s-dashboard-%e5%88%9b%e5%bb%ba%e5%a4%9a%e7%94%a8%e6%88%b7%e5%b9%b6%e6%8e%88%e4%ba%88%e4%b8%8d%e5%90%8c%e6%9d%83%e9%99%90/)
 
 ### Kubernetes高可用
 * [lvs+keepalived部署k8s v1.16.4高可用集群例子](https://www.kubernetes.org.cn/6634.html)
