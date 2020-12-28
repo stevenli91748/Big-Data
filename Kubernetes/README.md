@@ -39,6 +39,7 @@
     * [Kube-proxy---维护节点上的网络规则。这些网络规则允许从集群内部或外部的网络会话与 Pod 进行网络通信]()
     * [Pod](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E7%BB%84%E4%BB%B6/%E5%B7%A5%E4%BD%9C%E8%8A%82%E7%82%B9/Pod.md)
        * [Pause容器]()
+         * [Pod内数据的存储管理](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E7%BB%84%E4%BB%B6/%E5%B7%A5%E4%BD%9C%E8%8A%82%E7%82%B9/Pod%E5%86%85%E6%95%B0%E6%8D%AE%E7%9A%84%E5%AD%98%E5%82%A8%E7%AE%A1%E7%90%86.md)
        * [业务容器]()
     * [容器引擎]()   
   * [Addons]()     
