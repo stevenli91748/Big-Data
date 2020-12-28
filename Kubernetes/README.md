@@ -89,7 +89,8 @@
     * [通过负载均衡访问服务](https://help.aliyun.com/document_detail/86531.html)
   * 容器服务 kubernetes中应用上下线
     * [容器服务 kubernetes（ACK）中应用优雅上下线]()
-  
+  * 多集群管理
+    * [K8S 多集群切换](http://www.dev-share.top/2020/09/29/k8s-%e5%a4%9a%e9%9b%86%e7%be%a4%e5%88%87%e6%8d%a2/)
 ---
 
 # Kubernetes 特性
