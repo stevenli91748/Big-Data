@@ -36,7 +36,7 @@
 * [Kunbernetes-容器云应用的安装部署工具Helm](https://www.kubernetes.org.cn/4009.html)
 * [Helm 安装/使用](http://www.dev-share.top/2020/07/16/helm-%e5%ae%89%e8%a3%85-%e4%bd%bf%e7%94%a8/)
 * [docker-compose 部署 Helm 私服仓库](http://www.dev-share.top/2020/07/21/docker-compose-%e9%83%a8%e7%bd%b2-helm-%e7%a7%81%e6%9c%8d%e4%bb%93%e5%ba%93/)
-
+* [Helm3 推送文件到 Harbor仓库](http://www.dev-share.top/2020/09/14/helm3-%e6%8e%a8%e9%80%81%e6%96%87%e4%bb%b6%e5%88%b0-harbor%e4%bb%93%e5%ba%93/)
 ### k8s部署node.js
 * [K8s 部署node.js](http://www.dev-share.top/2019/05/28/k8s-%e9%83%a8%e7%bd%b2node-js/)
 
