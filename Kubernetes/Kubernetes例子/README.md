@@ -17,21 +17,35 @@
 * [ Kubernetes 18.04集群安装教程(基于Centos7)](https://learnku.com/docs/go-micro-build/1.0/kubernetes-1804-cluster-installation-tutorial-based-on-centos7/8877)
 * [kubeadm安装Kubernetes V1.10集群详细文档](https://www.kubernetes.org.cn/3808.html)
 * [深入玩转K8S之使用kubeadm安装Kubernetes v1.10以及常见问题解答](https://blog.51cto.com/devingeng/2096495?source=drt)
-* [【kafaka】在Kubernetes上使用helm部署kafka](https://www.kubernetes.org.cn/7592.html)
-* [kubernetes-部署RabbitMQ](https://www.kubernetes.org.cn/6580.html)
-* [kubernetes-部署Oracle数据库](https://www.kubernetes.org.cn/6498.html)
-* [在现有 Kubernetes 集群安装 KubeSphere](https://www.kubernetes.org.cn/5718.html)
-* [二进制部署Kubernetes v1.13.4 HA可选](https://www.kubernetes.org.cn/5163.html)
-* [在现有 Kubernetes 集群安装 KubeSphere](https://www.kubernetes.org.cn/5718.html)
-* [Kubernetes-部署API网关Kong](https://www.kubernetes.org.cn/4952.html)
 * [kubernetes1.13.1+etcd3.3.10+flanneld0.10集群部署](https://www.kubernetes.org.cn/5025.html)
-* [k8s配置calico,以及配置ip固定](https://www.kubernetes.org.cn/4289.html)
-* [kubeadm HA master(v1.14.0)离线包 + 自动化脚本 + 常用插件 For Centos/Fedora](https://www.kubernetes.org.cn/5213.html)
-* [Kunbernetes-容器云应用的安装部署工具Helm](https://www.kubernetes.org.cn/4009.html)
+* [二进制部署Kubernetes v1.13.4 HA可选](https://www.kubernetes.org.cn/5163.html)
 * [纯手工搭建k8s集群-序](https://www.kubernetes.org.cn/3786.html)
   * [纯手工搭建k8s集群-(一)预先准备环境](https://www.kubernetes.org.cn/3787.html)
   * [纯手工搭建k8s集群-(二)核心模块部署](https://www.kubernetes.org.cn/3788.html)
   * [纯手工搭建k8s集群-(三)认证授权和服务发现](https://www.kubernetes.org.cn/3789.html)
+
+### k8s kubeSphere
+* [在现有 Kubernetes 集群安装 KubeSphere](https://www.kubernetes.org.cn/5718.html)
+
+### k8s helm
+* [Kunbernetes-容器云应用的安装部署工具Helm](https://www.kubernetes.org.cn/4009.html)
+
+
+### k8s部署node.js
+* [K8s 部署node.js](http://www.dev-share.top/2019/05/28/k8s-%e9%83%a8%e7%bd%b2node-js/)
+
+### k8s部署kafka
+* [【kafaka】在Kubernetes上使用helm部署kafka](https://www.kubernetes.org.cn/7592.html)
+
+### k8s部署消息队列
+* [kubernetes-部署RabbitMQ](https://www.kubernetes.org.cn/6580.html)
+* [k8s 部署 rabbitmq](http://www.dev-share.top/2019/03/15/k8s-%e9%83%a8%e7%bd%b2-rabbitmq/)
+
+### k8s部署数据库
+* [kubernetes-部署Oracle数据库](https://www.kubernetes.org.cn/6498.html)
+
+### k8s部署网关
+* [Kubernetes-部署API网关Kong](https://www.kubernetes.org.cn/4952.html)
 
 
 ## Kubernetes高可用
@@ -40,11 +54,16 @@
 * [Centos7.6部署k8s v1.16.4高可用集群(主备模式)例子](https://www.kubernetes.org.cn/6632.html)
 * [k8s高可用部署：keepalived + haproxy](https://www.kubernetes.org.cn/6964.html)
 * [k8s高可用部署后续：SLB](https://www.kubernetes.org.cn/7033.html)
+* [kubeadm HA master(v1.14.0)离线包 + 自动化脚本 + 常用插件 For Centos/Fedora](https://www.kubernetes.org.cn/5213.html)
 
 ## Kubernetes通信
 
 * [Kubernetes中容器到容器通信](https://www.kubernetes.org.cn/8688.html)
 * [Kubernetes 容器网络模型和典型实现](https://www.kubernetes.org.cn/8461.html)
+* [k8s配置calico,以及配置ip固定](https://www.kubernetes.org.cn/4289.html)
+
+
+
 ## Kubernetes监控
 * [使用mongodb-exporter在prometheus+grafana上实现对mongodb监控](https://www.kubernetes.org.cn/7451.html)
 * [使用redis-exporter对redis集群进行性能监控](https://www.kubernetes.org.cn/7616.html)
