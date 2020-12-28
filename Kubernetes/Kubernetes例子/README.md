@@ -11,6 +11,8 @@
 # 项目完整例子
 
 ## Kubernetes部署例子
+* [K8s 安装部署(master)](http://www.dev-share.top/2019/05/21/k8s-%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/)
+* [K8s 安装部署(node)](http://www.dev-share.top/2019/05/23/k8s-%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2node/)
 * [Kubernetes教程之新手安装必看（快速浏览少走弯路）](https://segmentfault.com/a/1190000022809164)
 * [ Kubernetes 18.04集群安装教程(基于Centos7)](https://learnku.com/docs/go-micro-build/1.0/kubernetes-1804-cluster-installation-tutorial-based-on-centos7/8877)
 * [kubeadm安装Kubernetes V1.10集群详细文档](https://www.kubernetes.org.cn/3808.html)
