@@ -23,6 +23,8 @@
   * [纯手工搭建k8s集群-(一)预先准备环境](https://www.kubernetes.org.cn/3787.html)
   * [纯手工搭建k8s集群-(二)核心模块部署](https://www.kubernetes.org.cn/3788.html)
   * [纯手工搭建k8s集群-(三)认证授权和服务发现](https://www.kubernetes.org.cn/3789.html)
+* [重新安装 K8S](http://www.dev-share.top/2019/12/11/%e9%87%8d%e6%96%b0%e5%ae%89%e8%a3%85-k8s/)
+
 
 ### k8s kubeSphere
 * [在现有 Kubernetes 集群安装 KubeSphere](https://www.kubernetes.org.cn/5718.html)
@@ -47,8 +49,11 @@
 ### k8s部署网关
 * [Kubernetes-部署API网关Kong](https://www.kubernetes.org.cn/4952.html)
 
+### k8s部署Dashboard 
+* [安装 K8S Dashboard (官方)](http://www.dev-share.top/2019/06/03/%e5%ae%89%e8%a3%85-k8s-dashboard-%e5%ae%98%e6%96%b9/)
 
-## Kubernetes高可用
+
+### Kubernetes高可用
 * [lvs+keepalived部署k8s v1.16.4高可用集群例子](https://www.kubernetes.org.cn/6634.html)
 * [利用 kubeadm 创建高可用集群例子](https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/high-availability/)
 * [Centos7.6部署k8s v1.16.4高可用集群(主备模式)例子](https://www.kubernetes.org.cn/6632.html)
@@ -56,13 +61,20 @@
 * [k8s高可用部署后续：SLB](https://www.kubernetes.org.cn/7033.html)
 * [kubeadm HA master(v1.14.0)离线包 + 自动化脚本 + 常用插件 For Centos/Fedora](https://www.kubernetes.org.cn/5213.html)
 
+---
+
+## Kubernetes运维
+* [K8s 在非master机器上使用kubectl 管理集群](http://www.dev-share.top/2019/06/13/k8s-%e5%9c%a8%e9%9d%9emaster%e6%9c%ba%e5%99%a8%e4%b8%8a%e4%bd%bf%e7%94%a8kubectl-%e7%ae%a1%e7%90%86%e9%9b%86%e7%be%a4/)
+
+
+
 ## Kubernetes通信
 
 * [Kubernetes中容器到容器通信](https://www.kubernetes.org.cn/8688.html)
 * [Kubernetes 容器网络模型和典型实现](https://www.kubernetes.org.cn/8461.html)
 * [k8s配置calico,以及配置ip固定](https://www.kubernetes.org.cn/4289.html)
 
-
+---
 
 ## Kubernetes监控
 * [使用mongodb-exporter在prometheus+grafana上实现对mongodb监控](https://www.kubernetes.org.cn/7451.html)
@@ -72,8 +84,8 @@
 * [Prometheus监控Kubernetes的3个配置挑战](https://www.kubernetes.org.cn/8533.html)
 * [手把手教你使用 Prometheus 监控 JVM](https://www.kubernetes.org.cn/8515.html)
 * [Prometheus Metrics 设计的最佳实践和应用实例，看这篇够了](https://www.kubernetes.org.cn/8481.html)
-
-
+* [K8S-安装-Prometheus监控](http://www.dev-share.top/2019/06/19/k8s-%e5%ae%89%e8%a3%85-prometheus%e7%9b%91%e6%8e%a7/)
+* [Filebeat-获取-K8s日志](http://www.dev-share.top/2019/06/28/filebeat-%e7%9b%91%e6%8e%a7-k8s-%e6%97%a5%e5%bf%97/)
 
 
 # SpringCloud应用在Kubernetes上的最佳实践
