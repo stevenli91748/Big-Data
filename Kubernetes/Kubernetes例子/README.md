@@ -31,7 +31,7 @@
 
 ### k8s helm
 * [Kunbernetes-容器云应用的安装部署工具Helm](https://www.kubernetes.org.cn/4009.html)
-
+* [Helm 安装/使用](http://www.dev-share.top/2020/07/16/helm-%e5%ae%89%e8%a3%85-%e4%bd%bf%e7%94%a8/)
 
 ### k8s部署node.js
 * [K8s 部署node.js](http://www.dev-share.top/2019/05/28/k8s-%e9%83%a8%e7%bd%b2node-js/)
@@ -45,6 +45,12 @@
 
 ### k8s部署数据库
 * [kubernetes-部署Oracle数据库](https://www.kubernetes.org.cn/6498.html)
+* [k8s部署redis服务 非持久化版](http://www.dev-share.top/2020/07/13/k8s%e9%83%a8%e7%bd%b2redis%e6%9c%8d%e5%8a%a1-%e9%9d%9e%e6%8c%81%e4%b9%85%e5%8c%96%e7%89%88/)
+
+
+
+
+
 
 ### k8s部署网关
 * [Kubernetes-部署API网关Kong](https://www.kubernetes.org.cn/4952.html)
@@ -52,6 +58,10 @@
 ### k8s部署Dashboard 
 * [安装 K8S Dashboard (官方)](http://www.dev-share.top/2019/06/03/%e5%ae%89%e8%a3%85-k8s-dashboard-%e5%ae%98%e6%96%b9/)
 * [K8S dashboard 创建多用户并授予不同权限](http://www.dev-share.top/2020/04/20/k8s-dashboard-%e5%88%9b%e5%bb%ba%e5%a4%9a%e7%94%a8%e6%88%b7%e5%b9%b6%e6%8e%88%e4%ba%88%e4%b8%8d%e5%90%8c%e6%9d%83%e9%99%90/)
+* [安装 K8S Dashboard 2.0](http://www.dev-share.top/2020/06/04/%e5%ae%89%e8%a3%85-k8s-dashboard-2-0/)
+
+
+
 
 ### Kubernetes高可用
 * [lvs+keepalived部署k8s v1.16.4高可用集群例子](https://www.kubernetes.org.cn/6634.html)
@@ -65,7 +75,8 @@
 
 ## Kubernetes运维
 * [K8s 在非master机器上使用kubectl 管理集群](http://www.dev-share.top/2019/06/13/k8s-%e5%9c%a8%e9%9d%9emaster%e6%9c%ba%e5%99%a8%e4%b8%8a%e4%bd%bf%e7%94%a8kubectl-%e7%ae%a1%e7%90%86%e9%9b%86%e7%be%a4/)
-
+* [k8s 安装 Rancher 2.x(企业级容器管理平台) 使用 cert-manager 版](http://www.dev-share.top/2020/07/16/k8s-%e5%ae%89%e8%a3%85-rancher-2-x-%e4%bd%bf%e7%94%a8-cert-manager-%e7%89%88/)
+* [k8s 安装 Rancher 2.x(企业级容器管理平台) 使用 Ingress-Controller 版](http://www.dev-share.top/2020/07/17/helm-%e5%ae%89%e8%a3%85-ingress-controller/)
 
 
 ## Kubernetes通信
