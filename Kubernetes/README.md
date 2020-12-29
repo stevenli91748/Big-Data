@@ -16,7 +16,7 @@
 ---|
 
 # 目录
-
+* [kubertes命令]()
 * [Kubernetes实验](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E5%AE%9E%E9%AA%8C/README.md)
 * [Kubernetes例子](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E4%BE%8B%E5%AD%90/README.md)
 * [Kubernetes 特性](#Kubernetes-特性)
