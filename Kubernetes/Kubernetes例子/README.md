@@ -68,9 +68,9 @@
 
 
 ### Kubernetes高可用
-* [lvs+keepalived部署k8s v1.16.4高可用集群例子](https://www.kubernetes.org.cn/6634.html)
+* [lvs+keepalived部署k8s v1.16.4高可用集群例子---lvs+keepalived 在前，vip在后的架构](https://www.kubernetes.org.cn/6634.html)
 * [利用 kubeadm 创建高可用集群例子](https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/high-availability/)
-* [Centos7.6部署k8s v1.16.4高可用集群(主备模式)例子](https://www.kubernetes.org.cn/6632.html)
+* [Centos7.6部署k8s v1.16.4高可用集群(主备模式)例子--vip在前，keepalived 在后的架构](https://www.kubernetes.org.cn/6632.html)
 * [k8s高可用部署：keepalived + haproxy](https://www.kubernetes.org.cn/6964.html)
 * [k8s高可用部署后续：SLB](https://www.kubernetes.org.cn/7033.html)
 * [kubeadm HA master(v1.14.0)离线包 + 自动化脚本 + 常用插件 For Centos/Fedora](https://www.kubernetes.org.cn/5213.html)
