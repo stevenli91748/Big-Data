@@ -81,6 +81,7 @@
     * [调试那些部署到 Kubernetes 上后没有正常运行的应用](https://kubernetes.io/zh/docs/tasks/debug-application-cluster/debug-application/)
   * [运维监控工具]()
      * Prometheus
+       * [Prometheus监控Kubernetes的3个配置挑战](https://www.kubernetes.org.cn/8533.html)
        * [Prometheus 配置文件详解](http://www.dev-share.top/2020/09/04/prometheus-%e9%85%8d%e7%bd%ae%e6%96%87%e4%bb%b6%e8%af%a6%e8%a7%a3/)
        * [使用Prometheus+grafana打造高逼格监控平台](https://blog.51cto.com/youerning/2050543?source=drt)
        * [使用 docker-compose 安装 Prometheus+Alertmanager+Grafana](http://www.dev-share.top/2019/06/25/%e4%bd%bf%e7%94%a8-docker-compose-%e5%ae%89%e8%a3%85-prometheusalertmanagergrafana/)
