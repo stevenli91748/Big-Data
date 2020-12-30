@@ -50,7 +50,7 @@
 ### k8s部署数据库
 * [kubernetes-部署Oracle数据库](https://www.kubernetes.org.cn/6498.html)
 * [k8s部署redis服务 非持久化版](http://www.dev-share.top/2020/07/13/k8s%e9%83%a8%e7%bd%b2redis%e6%9c%8d%e5%8a%a1-%e9%9d%9e%e6%8c%81%e4%b9%85%e5%8c%96%e7%89%88/)
-
+* [如何在Kubernetes上部署图形数据库Nebula Graph](https://www.kubernetes.org.cn/8190.html)
 ### k8s部署网关
 * [Kubernetes-部署API网关Kong](https://www.kubernetes.org.cn/4952.html)
 * [Kong 微服务网关在 Kubernetes 的实践](https://www.kubernetes.org.cn/8239.html)
