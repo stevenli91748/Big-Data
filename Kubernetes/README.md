@@ -178,7 +178,7 @@
 * [Kubernetes](https://blog.csdn.net/qq_39680564/category_9985180.html)
 * [CKA 学习笔记(一)](http://www.dev-share.top/2020/10/23/cka-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0%e4%b8%80/)
 * [CKA 学习笔记(二)](http://www.dev-share.top/2020/10/26/cka-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0%e4%ba%8c/)
-
+* [Kubernetes 新玩法：在 yaml 中编程](https://www.kubernetes.org.cn/8445.html)
 
 ---
 
