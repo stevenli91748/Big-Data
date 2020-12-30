@@ -89,7 +89,7 @@
 * [Kubernetes 容器网络模型和典型实现](https://www.kubernetes.org.cn/8461.html)
 * [k8s配置calico,以及配置ip固定](https://www.kubernetes.org.cn/4289.html)
 * [kubernetes 通过kube-router 代理kube-proxy calico 发布serviceip 和pod IP 和交换机建bgp,另使用bind9 做coredns的转发](https://www.kubernetes.org.cn/4257.html)
-
+* [Calico IPAM源码解析](https://www.kubernetes.org.cn/7989.html)
 ---
 
 ## Kubernetes监控
