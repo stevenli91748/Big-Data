@@ -51,11 +51,6 @@
 * [kubernetes-部署Oracle数据库](https://www.kubernetes.org.cn/6498.html)
 * [k8s部署redis服务 非持久化版](http://www.dev-share.top/2020/07/13/k8s%e9%83%a8%e7%bd%b2redis%e6%9c%8d%e5%8a%a1-%e9%9d%9e%e6%8c%81%e4%b9%85%e5%8c%96%e7%89%88/)
 
-
-
-
-
-
 ### k8s部署网关
 * [Kubernetes-部署API网关Kong](https://www.kubernetes.org.cn/4952.html)
 
@@ -74,7 +69,7 @@
 * [k8s高可用部署方案一：keepalived + haproxy----生产环境所用的部署架构,讲述了只有vip，没有实际slb设备的模式下，采用keepalived+haproxy实现高可用的方式](https://www.kubernetes.org.cn/6964.html)
 * [k8s高可用部署方案二:后续：SLB---依赖云厂商SLB高可用和负载均衡时安装k8s，方案一并不完美，通过改良后形成了方案二](https://www.kubernetes.org.cn/7033.html)
 * [kubeadm HA master(v1.14.0)离线包 + 自动化脚本 + 常用插件 For Centos/Fedora](https://www.kubernetes.org.cn/5213.html)
-
+* [kubernetes1.13.1+etcd3.3.10+flanneld0.10集群部署](https://www.kubernetes.org.cn/5025.html)
 ---
 
 ## Kubernetes运维
