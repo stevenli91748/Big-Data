@@ -55,6 +55,8 @@
   * [Admission Control---准入控制]()
   * [Service Account]()
   * [Secret]()
+* [Kubernetes存储]()
+  * [云原生存储详解：容器存储与 K8s 存储卷](https://www.kubernetes.org.cn/7866.html)
 * [Kubernetes网络原理](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/README.md)
   * [Kubernetes选择CNI插件的11个注意事项](https://www.kubernetes.org.cn/8570.html)
   * [1. 容器到容器通信]()
