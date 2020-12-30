@@ -53,6 +53,7 @@
 
 ### k8s部署网关
 * [Kubernetes-部署API网关Kong](https://www.kubernetes.org.cn/4952.html)
+* [Kong 微服务网关在 Kubernetes 的实践](https://www.kubernetes.org.cn/8239.html)
 
 ### k8s部署Dashboard 
 * [安装 K8S Dashboard (官方)](http://www.dev-share.top/2019/06/03/%e5%ae%89%e8%a3%85-k8s-dashboard-%e5%ae%98%e6%96%b9/)
