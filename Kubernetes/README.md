@@ -48,6 +48,7 @@
     * [ContainerResource Monitoring]()
     * [Cluster-level Logging]()
 * [集群安全机制]()
+  * [Kubernetes最佳安全实践](https://www.kubernetes.org.cn/8630.html)
   * [API Server认证管理---Authentication]()
   * [API Server授权管理---Authorization]()
   * [Admission Control---准入控制]()
