@@ -8,3 +8,4 @@
 * [Deploy the nginx ingress controller](https://docs.nginx.com/nginx-ingress-controller/installation/installation-with-manifests/#deploy-the-ingress-controller)
 * [Ingress 详解](https://kuboard.cn/learning/k8s-intermediate/service/ingress.html#ingress-controller)
 * [Ingress资源](https://kubernetes.io/zh/docs/concepts/services-networking/ingress/#ingress-%E8%B5%84%E6%BA%90)
+* [Nginx Ingress on TKE 部署最佳实践](https://www.kubernetes.org.cn/8211.html)
