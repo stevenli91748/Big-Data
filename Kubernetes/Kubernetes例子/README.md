@@ -70,6 +70,10 @@
 * [k8s高可用部署方案二:后续：SLB---依赖云厂商SLB高可用和负载均衡时安装k8s，方案一并不完美，通过改良后形成了方案二](https://www.kubernetes.org.cn/7033.html)
 * [kubeadm HA master(v1.14.0)离线包 + 自动化脚本 + 常用插件 For Centos/Fedora](https://www.kubernetes.org.cn/5213.html)
 * [kubernetes1.13.1+etcd3.3.10+flanneld0.10集群部署](https://www.kubernetes.org.cn/5025.html)
+* [Kubernetes v1.11.x HA 全手动安装教程](https://www.kubernetes.org.cn/4291.html)
+
+
+
 ---
 
 ## Kubernetes运维
@@ -83,6 +87,7 @@
 * [Kubernetes中容器到容器通信](https://www.kubernetes.org.cn/8688.html)
 * [Kubernetes 容器网络模型和典型实现](https://www.kubernetes.org.cn/8461.html)
 * [k8s配置calico,以及配置ip固定](https://www.kubernetes.org.cn/4289.html)
+* [kubernetes 通过kube-router 代理kube-proxy calico 发布serviceip 和pod IP 和交换机建bgp,另使用bind9 做coredns的转发](https://www.kubernetes.org.cn/4257.html)
 
 ---
 
