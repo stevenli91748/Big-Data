@@ -50,6 +50,7 @@
 * [集群安全机制]()
   * [Kubernetes最佳安全实践](https://www.kubernetes.org.cn/8630.html)
   * [API Server认证管理---Authentication]()
+    * [使用 KubeSphere 在 Kubernetes 安装 cert-manager 为网站启用 HTTPS](https://www.kubernetes.org.cn/8289.html)
   * [API Server授权管理---Authorization]()
   * [Admission Control---准入控制]()
   * [Service Account]()
@@ -106,6 +107,7 @@
     * [容器服务 kubernetes（ACK）中应用优雅上下线]()
   * 多集群管理
     * [K8S 多集群切换](http://www.dev-share.top/2020/09/29/k8s-%e5%a4%9a%e9%9b%86%e7%be%a4%e5%88%87%e6%8d%a2/)
+    * [Kubernetes 多集群在开源项目 KubeSphere 的应用](https://www.kubernetes.org.cn/8284.html)
   * 集群容器性能指标
     * [K8S 容器性能指标 metrics-server](http://www.dev-share.top/2020/10/25/k8s-%e5%ae%b9%e5%99%a8%e6%80%a7%e8%83%bd%e6%8c%87%e6%a0%87-metrics-server/)
     
