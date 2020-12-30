@@ -70,6 +70,7 @@
     * [2020年Kubernetes中7个最佳日志管理工具](https://www.kubernetes.org.cn/8595.html)
     * [使用 docker-compose 安装 filebeat+redis](http://www.dev-share.top/2019/06/27/%e4%bd%bf%e7%94%a8-docker-compose-%e5%ae%89%e8%a3%85-filebeatredis/)
     * [ELK+logtrail 显示filebeat抓取的日志](http://www.dev-share.top/2019/07/01/elklogtrail-%e6%98%be%e7%a4%bafilebeat%e6%8a%93%e5%8f%96%e7%9a%84%e6%97%a5%e5%bf%97/)
+    * [Kubernetes中日志记录和监控模式](https://www.kubernetes.org.cn/7840.html)
   * [k8s网络工具]()
     * [K8S 网络工具](http://www.dev-share.top/2019/12/12/k8s-%e7%bd%91%e7%bb%9c%e5%b7%a5%e5%85%b7/)
   * [开发工具]()
