@@ -113,6 +113,7 @@
   * 多集群管理
     * [K8S 多集群切换](http://www.dev-share.top/2020/09/29/k8s-%e5%a4%9a%e9%9b%86%e7%be%a4%e5%88%87%e6%8d%a2/)
     * [Kubernetes 多集群在开源项目 KubeSphere 的应用](https://www.kubernetes.org.cn/8284.html)
+    * [灵活、高效的云原生集群管理经验：用 K8s 管理 K8s](https://www.kubernetes.org.cn/7476.html)
   * 集群容器性能指标
     * [K8S 容器性能指标 metrics-server](http://www.dev-share.top/2020/10/25/k8s-%e5%ae%b9%e5%99%a8%e6%80%a7%e8%83%bd%e6%8c%87%e6%a0%87-metrics-server/)
     
