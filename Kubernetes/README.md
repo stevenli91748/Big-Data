@@ -33,6 +33,7 @@
       * [Endpoint Controller]()
     * [Cloud-controller-manager]()
     * [Scheduler---APIServer接收到请求后通过Scheduler的调度策略选择对应的Worker node]()
+      * [进击的 Kubernetes 调度系统（一）：Kubernetes scheduling framework](https://www.kubernetes.org.cn/7983.html)
     * [ETCD---集群中配置等信息存储](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E7%BB%84%E4%BB%B6/master%E8%8A%82%E7%82%B9/ETCD.md)
   * [Worker Node](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E7%BB%84%E4%BB%B6/%E5%B7%A5%E4%BD%9C%E8%8A%82%E7%82%B9/README.md)
     * [kubelet---调用Docker Engine创建对应的pod]()
