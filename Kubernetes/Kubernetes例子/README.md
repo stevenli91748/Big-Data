@@ -72,7 +72,8 @@
 * [kubeadm HA master(v1.14.0)离线包 + 自动化脚本 + 常用插件 For Centos/Fedora](https://www.kubernetes.org.cn/5213.html)
 * [kubernetes1.13.1+etcd3.3.10+flanneld0.10集群部署](https://www.kubernetes.org.cn/5025.html)
 * [Kubernetes v1.11.x HA 全手动安装教程](https://www.kubernetes.org.cn/4291.html)
-
+* [Kubernetes容器集群管理环境 - 完整部署（上篇）](https://blog.csdn.net/weixin_30588675/article/details/98925066?utm_medium=distribute.pc_relevant_download.none-task-blog-baidujs-8.nonecase&depth_1-utm_source=distribute.pc_relevant_download.none-task-blog-baidujs-8.nonecase)
+* [Kubernetes容器集群管理环境 - 完整部署（中篇）](https://blog.csdn.net/weixin_30294709/article/details/98925599?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-2&spm=1001.2101.3001.4242)
 
 
 ---
