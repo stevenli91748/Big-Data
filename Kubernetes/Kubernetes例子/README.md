@@ -11,7 +11,7 @@
 # 项目完整例子
 
 ## Kubernetes部署例子
-* [如何在AWS上部署Kubernetes集群](https://blog.csdn.net/weixin_33725807/article/details/89413234?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)
+
 * [K8s 安装部署(master)](http://www.dev-share.top/2019/05/21/k8s-%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/)
 * [K8s 安装部署(node)](http://www.dev-share.top/2019/05/23/k8s-%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2node/)
 * [Kubernetes教程之新手安装必看（快速浏览少走弯路）](https://segmentfault.com/a/1190000022809164)
@@ -25,6 +25,11 @@
   * [纯手工搭建k8s集群-(二)核心模块部署](https://www.kubernetes.org.cn/3788.html)
   * [纯手工搭建k8s集群-(三)认证授权和服务发现](https://www.kubernetes.org.cn/3789.html)
 * [重新安装 K8S](http://www.dev-share.top/2019/12/11/%e9%87%8d%e6%96%b0%e5%ae%89%e8%a3%85-k8s/)
+
+## Kubernetes部署到 AWS
+* [aws api_仅需20分钟即可在AWS上部署Kubernetes和Restful API](https://blog.csdn.net/weixin_26752759/article/details/108085349?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-3&spm=1001.2101.3001.4242)
+* [如何在AWS上部署Kubernetes集群](https://blog.csdn.net/weixin_33725807/article/details/89413234?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)
+
 
 ### k8s部署java 程序
 * [K8S 部署 Java 程序](http://www.dev-share.top/2020/08/05/k8s-%e9%83%a8%e7%bd%b2-java-%e7%a8%8b%e5%ba%8f/)
