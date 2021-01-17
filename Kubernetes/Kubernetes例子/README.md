@@ -11,6 +11,7 @@
 # 项目完整例子
 
 ## Kubernetes部署例子
+* [如何在AWS上部署Kubernetes集群](https://blog.csdn.net/weixin_33725807/article/details/89413234?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)
 * [K8s 安装部署(master)](http://www.dev-share.top/2019/05/21/k8s-%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/)
 * [K8s 安装部署(node)](http://www.dev-share.top/2019/05/23/k8s-%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2node/)
 * [Kubernetes教程之新手安装必看（快速浏览少走弯路）](https://segmentfault.com/a/1190000022809164)
