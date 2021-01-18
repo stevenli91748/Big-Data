@@ -199,3 +199,8 @@
 * [Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 * [Kuboard v3.0 ---支持多 Kubernetes 集群管理](https://kuboard.cn/install/install-dashboard.html)
 * [Kubernetes实践指南](https://k8s.imroc.io/configuration/helm/install-helm/)
+* [Serverless Handbook——无服务架构实践手册](https://jimmysong.io/serverless-handbook/)
+* [云原生基础架构](https://jimmysong.io/cloud-native-infra/)
+* [Istio Handbook——Istio 服务网格进阶实战](https://www.servicemesher.com/istio-handbook/)
+* [移到云原生应用架构](https://jimmysong.io/migrating-to-cloud-native-application-architectures/)
+* [Hugo 静态网站构建手册--如何使用Hugo构建静态网站用于个人博客或者项目展示](https://jimmysong.io/hugo-handbook/)
