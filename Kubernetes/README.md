@@ -189,7 +189,15 @@
 * [CKA 学习笔记(二)](http://www.dev-share.top/2020/10/26/cka-%e5%ad%a6%e4%b9%a0%e7%ac%94%e8%ae%b0%e4%ba%8c/)
 * [Kubernetes 新玩法：在 yaml 中编程](https://www.kubernetes.org.cn/8445.html)
 * [Kubernetes 忘记token解决方案](https://blog.csdn.net/qq_19734597/article/details/97674360)
-
+* [CI/CD Kubernetes | Setting up CI/CD Jenkins pipeline for kubernetes](https://jhooq.com/ci-cd-jenkins-kubernetes/)
+* [Setting up Ingress controller NGINX along with HAproxy for Microservice deployed inside Kubernetes cluster](https://jhooq.com/ingress-controller-nginx/)
+* [Deploy spring boot microservice on Google Cloud Platform (GCP)](https://jhooq.com/deploy-spring-boot-microservices-on-kubernetes/#part-2)
+* [Deploy Spring Boot microservices on kubernetes](https://jhooq.com/deploy-spring-boot-microservices-on-kubernetes/)
+* [How to use Persistent Volume and Persistent Claims | Kubernetes](https://jhooq.com/how-to-use-persistent-volume-and-persistent-claims-kubernetes/)
+* [Setting Up kubernetes Dashboard on GKE(Google Kubernetes Engine) on GCP(Google Cloud Platform)](https://jhooq.com/setting-up-kubernetes-dashboard/#gke-kubernetes-dashboard)
+* [Setting Up kubernetes Dashboard on On Kubernetes Local cluster](https://jhooq.com/setting-up-kubernetes-dashboard/)
+* [Install Kubernetes with Minikube](https://jhooq.com/kubernets-and-minikube/)
+* []()
 
 
 ---
