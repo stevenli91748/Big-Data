@@ -70,7 +70,7 @@
 
 
 ### Kubernetes高可用
-* [vagrant-centos-k8s-HA-cluster](https://github.com/connectbaseer/vagrant-centos-k8s-ha-cluster)
+* [vagrant-centos-k8s-HA-cluster with nginx ](https://github.com/connectbaseer/vagrant-centos-k8s-ha-cluster)
 * [kubeadm部署kubernetes高可用集群-VIP版](https://lengxiaobing.github.io/2019/06/04/kubeadm%E9%83%A8%E7%BD%B2kubernetes%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4-VIP%E7%89%88/)
 * [lvs+keepalived部署k8s v1.16.4高可用集群例子---lvs+keepalived 在前，vip在后的架构](https://www.kubernetes.org.cn/6634.html)
 * [利用 kubeadm 创建高可用集群例子---官方](https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/high-availability/)
