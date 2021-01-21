@@ -43,6 +43,7 @@
 * [Helm 安装/使用](http://www.dev-share.top/2020/07/16/helm-%e5%ae%89%e8%a3%85-%e4%bd%bf%e7%94%a8/)
 * [docker-compose 部署 Helm 私服仓库](http://www.dev-share.top/2020/07/21/docker-compose-%e9%83%a8%e7%bd%b2-helm-%e7%a7%81%e6%9c%8d%e4%bb%93%e5%ba%93/)
 * [Helm3 推送文件到 Harbor仓库](http://www.dev-share.top/2020/09/14/helm3-%e6%8e%a8%e9%80%81%e6%96%87%e4%bb%b6%e5%88%b0-harbor%e4%bb%93%e5%ba%93/)
+
 ### k8s部署node.js
 * [K8s 部署node.js](http://www.dev-share.top/2019/05/28/k8s-%e9%83%a8%e7%bd%b2node-js/)
 
@@ -70,6 +71,7 @@
 
 
 ### Kubernetes高可用
+* [LVS+Keepalived+Nginx负载均衡搭建测试](https://blog.51cto.com/3241766/2094750)
 * [vagrant-centos-k8s-HA-cluster with nginx ](https://github.com/connectbaseer/vagrant-centos-k8s-ha-cluster)
 * [kubeadm部署kubernetes高可用集群-VIP版](https://lengxiaobing.github.io/2019/06/04/kubeadm%E9%83%A8%E7%BD%B2kubernetes%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4-VIP%E7%89%88/)
 * [lvs+keepalived部署k8s v1.16.4高可用集群例子---lvs+keepalived 在前，vip在后的架构](https://www.kubernetes.org.cn/6634.html)
