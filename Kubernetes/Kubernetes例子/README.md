@@ -79,7 +79,7 @@
 * [lvs+keepalived部署k8s v1.16.4高可用集群例子---lvs+keepalived 在前，vip在后的架构 生产环境的配置 要研究透](https://www.kubernetes.org.cn/6634.html)
 * [k8s高可用部署方案一：keepalived + haproxy----生产环境所用的部署架构,讲述了只有vip，没有实际slb设备的模式下，采用keepalived+haproxy实现高可用的方式](https://www.kubernetes.org.cn/6964.html)
 * [k8s高可用部署方案二:后续：SLB---依赖云厂商SLB高可用和负载均衡时安装k8s，方案一并不完美，通过改良后形成了方案二](https://www.kubernetes.org.cn/7033.html)
-
+* [(主从热备)LVS+Keepalived+Nginx实现高性能负载均衡集群](https://my.oschina.net/u/4351598/blog/3404333)
 **非生产环境的配置**
 * [LVS+Keepalived高可用环境部署梳理（主主和主从模式）](https://cloud.tencent.com/developer/article/1026003)
 * [利用 kubeadm 创建高可用集群例子---官方](https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/high-availability/)
