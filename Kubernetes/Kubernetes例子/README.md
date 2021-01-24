@@ -81,6 +81,7 @@
 * [k8s高可用部署方案二:后续：SLB---依赖云厂商SLB高可用和负载均衡时安装k8s，方案一并不完美，通过改良后形成了方案二](https://www.kubernetes.org.cn/7033.html)
 
 **非生产环境的配置**
+* [LVS+Keepalived高可用环境部署梳理（主主和主从模式）](https://cloud.tencent.com/developer/article/1026003)
 * [利用 kubeadm 创建高可用集群例子---官方](https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/high-availability/)
 * [Centos7.6部署k8s v1.16.4高可用集群(主备模式)例子--vip在前，keepalived 在后的架构，还没达到生产环境的配置，可参考](https://www.kubernetes.org.cn/6632.html)
 * [kubeadm HA master(v1.14.0)离线包 + 自动化脚本 + 常用插件 For Centos/Fedora](https://www.kubernetes.org.cn/5213.html)
