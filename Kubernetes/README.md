@@ -91,6 +91,7 @@
        * [Prometheus 配置文件详解](http://www.dev-share.top/2020/09/04/prometheus-%e9%85%8d%e7%bd%ae%e6%96%87%e4%bb%b6%e8%af%a6%e8%a7%a3/)
        * [使用Prometheus+grafana打造高逼格监控平台](https://blog.51cto.com/youerning/2050543?source=drt)
        * [使用 docker-compose 安装 Prometheus+Alertmanager+Grafana](http://www.dev-share.top/2019/06/25/%e4%bd%bf%e7%94%a8-docker-compose-%e5%ae%89%e8%a3%85-prometheusalertmanagergrafana/)
+       * [监控实战Prometheus+Grafana](https://cloud.tencent.com/developer/article/1513063?from=article.detail.1751679)
        * [Kubernetes之利用prometheus监控K8S集群](https://blog.51cto.com/newfly/2061135?source=drt)
        * [用Prometheus细化Nginx监控](https://blog.51cto.com/xujpxm/2080146?source=drt)
        * [Kubernetes+Prometheus+Grafana部署笔记](https://blog.51cto.com/kaliarch/2160569?source=drt)
