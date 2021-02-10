@@ -198,7 +198,8 @@
 * [Setting Up kubernetes Dashboard on GKE(Google Kubernetes Engine) on GCP(Google Cloud Platform)](https://jhooq.com/setting-up-kubernetes-dashboard/#gke-kubernetes-dashboard)
 * [Setting Up kubernetes Dashboard on On Kubernetes Local cluster](https://jhooq.com/setting-up-kubernetes-dashboard/)
 * [Install Kubernetes with Minikube](https://jhooq.com/kubernets-and-minikube/)
-* []()
+* [阿里PB级Kubernetes日志平台建设实践](https://zhuanlan.zhihu.com/p/67497026?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+* [Kubernetes Deployment 终极指南！](https://zhuanlan.zhihu.com/p/103973666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
 
 ---
