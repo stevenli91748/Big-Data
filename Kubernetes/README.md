@@ -100,6 +100,7 @@
        * [Prometheus应用 mysqld_exporter 监控Mysql](http://www.dev-share.top/2019/06/21/prometheus%e5%ba%94%e7%94%a8-mysqld_exporter-%e7%9b%91%e6%8e%a7mysql/)
      * [Kubernetes集群监控方案](https://blog.51cto.com/ylw6006/2084403?source=drt)
      * [Grafana的使用感受](https://blog.51cto.com/13728665/2114392?source=drt)
+       * [Grafana全网最佳实战视频教程合集](https://www.bilibili.com/video/BV1PV411k7Rz/?spm_id_from=333.788.videocard.12)
      * [Kubernetes高可用性监控：Thanos的部署](https://www.kubernetes.org.cn/8308.html)
 * [Kubernetes运维]()  
   * 集群升级
