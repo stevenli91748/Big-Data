@@ -73,6 +73,7 @@
 ### Kubernetes高可用
 
 **生产环境的配置**
+
 * [LVS+Keepalived+Nginx负载均衡搭建测试](https://blog.51cto.com/3241766/2094750)
 * [vagrant-centos-k8s-HA-cluster with nginx ](https://github.com/connectbaseer/vagrant-centos-k8s-ha-cluster)
 * [kubeadm部署kubernetes高可用集群-VIP版](https://lengxiaobing.github.io/2019/06/04/kubeadm%E9%83%A8%E7%BD%B2kubernetes%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4-VIP%E7%89%88/)
@@ -80,7 +81,9 @@
 * [k8s高可用部署方案一：keepalived + haproxy----生产环境所用的部署架构,讲述了只有vip，没有实际slb设备的模式下，采用keepalived+haproxy实现高可用的方式](https://www.kubernetes.org.cn/6964.html)
 * [k8s高可用部署方案二:后续：SLB---依赖云厂商SLB高可用和负载均衡时安装k8s，方案一并不完美，通过改良后形成了方案二](https://www.kubernetes.org.cn/7033.html)
 * [(主从热备)LVS+Keepalived+Nginx实现高性能负载均衡集群](https://my.oschina.net/u/4351598/blog/3404333)
+
 **非生产环境的配置**
+
 * [LVS+Keepalived高可用环境部署梳理（主主和主从模式）](https://cloud.tencent.com/developer/article/1026003)
 * [利用 kubeadm 创建高可用集群例子---官方](https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/high-availability/)
 * [Centos7.6部署k8s v1.16.4高可用集群(主备模式)例子--vip在前，keepalived 在后的架构，还没达到生产环境的配置，可参考](https://www.kubernetes.org.cn/6632.html)
