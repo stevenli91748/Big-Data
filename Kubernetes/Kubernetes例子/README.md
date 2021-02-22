@@ -73,7 +73,7 @@
 ### Kubernetes高可用
 
 **生产环境的配置**
-
+* [架构设计：负载均衡层设计方案（7）——LVS + Keepalived + Nginx安装及配置](https://panlw.github.io/15301812452579.html)
 * [LVS+Keepalived+Nginx负载均衡搭建测试](https://blog.51cto.com/3241766/2094750)
 * [vagrant-centos-k8s-HA-cluster with nginx ](https://github.com/connectbaseer/vagrant-centos-k8s-ha-cluster)
 * [kubeadm部署kubernetes高可用集群-VIP版](https://lengxiaobing.github.io/2019/06/04/kubeadm%E9%83%A8%E7%BD%B2kubernetes%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4-VIP%E7%89%88/)
