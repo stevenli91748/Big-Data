@@ -86,6 +86,7 @@
     * [调试集群](https://kubernetes.io/zh/docs/tasks/debug-application-cluster/debug-cluster/)
     * [调试那些部署到 Kubernetes 上后没有正常运行的应用](https://kubernetes.io/zh/docs/tasks/debug-application-cluster/debug-application/)
   * [运维监控工具]()
+     * [如何以优雅的姿势监控kubernetes](https://www.kancloud.cn/huyipow/prometheus#/catalog)
      * Prometheus
        * [Prometheus监控Kubernetes的3个配置挑战](https://www.kubernetes.org.cn/8533.html)
        * [Prometheus 配置文件详解](http://www.dev-share.top/2020/09/04/prometheus-%e9%85%8d%e7%bd%ae%e6%96%87%e4%bb%b6%e8%af%a6%e8%a7%a3/)
