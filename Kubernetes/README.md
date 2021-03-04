@@ -88,6 +88,7 @@
   * [运维监控工具]()
      * [如何以优雅的姿势监控kubernetes](https://www.kancloud.cn/huyipow/prometheus#/catalog)
      * Prometheus
+       * [用容器轻松搭建Prometheus运行环境](http://qinghua.github.io/prometheus/)
        * [Prometheus监控Kubernetes的3个配置挑战](https://www.kubernetes.org.cn/8533.html)
        * [Prometheus 配置文件详解](http://www.dev-share.top/2020/09/04/prometheus-%e9%85%8d%e7%bd%ae%e6%96%87%e4%bb%b6%e8%af%a6%e8%a7%a3/)
        * [使用Prometheus+grafana打造高逼格监控平台](https://blog.51cto.com/youerning/2050543?source=drt)
