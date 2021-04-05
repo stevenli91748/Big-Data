@@ -1,4 +1,12 @@
+**所谓的“大数据”其实是海量数据采集清洗转换、数据存储、数据分析、数据服务等场景解决方案的一个统称，在每一个场景都包含了多种可选的技术。
+如数据采集有 Flume、Sqoop、Kettle 等，数据存储有分布式文件系统 HDFS、FastDFS，NoSQL 数据库 HBase、MongoDB 等，数据分析有 Spark 技术栈、机器学习算法等。
+总的来说大数据架构就是根据业务的需求，整合各种大数据组件组合而成的架构，一般会提供分布式存储、分布式计算、多维分析、数据仓库、机器学习算法等能力。
+而服务端架构更多指的是应用组织层面的架构，底层能力往往是由大数据架构来提供**
+
+
 # [大数据面试](https://github.com/stevenli91748/Big-Data/blob/master/interview.md)
+
+
 
 [Spark](https://github.com/stevenli91748/Big-Data/blob/master/Spark/README.md)|[Hadoop](https://github.com/stevenli91748/Big-Data/blob/master/Hadoop/README.md)|[Hive](https://github.com/stevenli91748/Big-Data/blob/master/Hive/README.md)|[Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/README.md)|Zookeeper|HA|Flume|
 ---|---|---|---|---|---|---|
