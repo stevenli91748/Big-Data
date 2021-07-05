@@ -82,7 +82,11 @@
     * [深入玩转K8S之Kubernetes1.10中部署dashboard以及常见问题解析](https://blog.51cto.com/devingeng/2096639?source=drt)
     * [kubernetes之Ingress部署](https://blog.51cto.com/newfly/2060587?source=drt)
     * [分布式消息队列RocketMQ部署与监控](https://blog.51cto.com/sofar/1540874?source=drt)
-  * [部署测试工具]()
+  * 部署测试工具
+    * 主流的部署方式
+      * [使用 Kubeadm 部署 Kubernetes 集群](https://icyfenix.cn/appendix/deployment-env-setup/setup-kubernetes/setup-kubeadm.html)
+      * [使用 Rancher 部署、管理 Kubernetes 集群（其他如 KubeSphere 等在 Kubernetes 基础上构建的工具均归入此类）](https://icyfenix.cn/appendix/deployment-env-setup/setup-kubernetes/setup-rancher.html)
+      * [使用 Minikube 在本地单节点部署 Kubernetes 集群（其他如 Microk8s 等本地环境的工具均归入此类）](https://icyfenix.cn/appendix/deployment-env-setup/setup-kubernetes/setup-minikube.html)
     * [调试集群](https://kubernetes.io/zh/docs/tasks/debug-application-cluster/debug-cluster/)
     * [调试那些部署到 Kubernetes 上后没有正常运行的应用](https://kubernetes.io/zh/docs/tasks/debug-application-cluster/debug-application/)
   * [运维监控工具]()
