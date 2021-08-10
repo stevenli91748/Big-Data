@@ -19,6 +19,14 @@
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[Spring on Kubernetes](https://spring.io/guides/topicals/spring-on-kubernetes/)|
 ---|---|
 
+[SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇(工具部署)](https://www.kubernetes.org.cn/8078.html)|[SpringCloud 应用在 Kubernetes 上的最佳实践 —— 开发篇](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)|[SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇（开发部署）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247492052&idx=1&sn=8ff93e6f7b398e6a509239910b61b975&scene=21#wechat_redirect)|
+---|---|---|
+
+[使用 Java 操作 Kubernetes API](https://www.kubernetes.org.cn/8984.html)|
+---|
+
+
+
 # 目录
 * [kubertes命令]()
 * [Kubernetes实验](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E5%AE%9E%E9%AA%8C/README.md)
