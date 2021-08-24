@@ -29,6 +29,23 @@
 [使用 Java 操作 Kubernetes API](https://www.kubernetes.org.cn/8984.html)|
 ---|
 
+# Mybird
+
+* [Kubernetes服务发现总结](https://mrbird.cc/Kubernetes-Service-Discovery-Summary.html)
+* [Kubernetes Ingress](https://mrbird.cc/Kubernetes-Ingress.html)
+* [Kubernetes StatefulSet](https://mrbird.cc/Kubernetes-StatefulSet.html)
+* [Kubernetes StorageClass实践](https://mrbird.cc/Kubernetes-StorageClass-Practice.html)
+* [Kubernetes PV/PVC](https://mrbird.cc/Kubernetes-PV-PVC.html)
+* [Kubernetes资源管理](https://mrbird.cc/Kubernetes-Resource-Management.html)
+* [Kubernetes Namespace&Context](https://mrbird.cc/Kubernetes-Namespaces-Context.html)
+* [Kubernetes Service基础](https://mrbird.cc/Kubernetes-Service-Basic.html)
+* [Kubernetes Pod扩容与缩容](https://mrbird.cc/Kubernetes-Pod-Expansion-Contraction.html)
+* [Kubernetes Pod升级与回滚](https://mrbird.cc/Kubernetes-Pod-Upgrade-And-Rollback.html)
+* [Kubernetes Pod管理对象与调度策略](https://mrbird.cc/Kubernetes-Pod-Mananger.html)
+* [Kubernetes Pod基础](https://mrbird.cc/Kubernetes-Pod-Basic.html)
+* [Kubernetes基础](https://mrbird.cc/Kubernetes-Basic.html)
+* [Kubernetes1.16.2安装Dashboard](https://mrbird.cc/Kubernetes1-16-2-install-Dashboard.html)
+* [Kubeadm安装Kubernetes1.16.2集群](https://mrbird.cc/Kubeadm-install-Kubernetes1-16-2-cluster.html)
 
 
 # 目录
