@@ -9,8 +9,8 @@
 [精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|
 ---|---|---|
 
-[Kubernetes中文社区](https://www.kubernetes.org.cn/)|
----|
+[Kubernetes中文社区](https://www.kubernetes.org.cn/)|[周志明 如何部署 Kubernetes 集群](https://icyfenix.cn/appendix/deployment-env-setup/setup-kubernetes/)|
+---|---|
 
 
 [如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)](https://github.com/ben1234560/k8s_PaaS)|
