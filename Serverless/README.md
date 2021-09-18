@@ -5,7 +5,7 @@
 
 # 在线书籍
 * [Serverless 工程实践---2021](https://weread.qq.com/web/reader/89c322e0725d0bbd89cac6a)
-
+* [Serverless架构： 无服务器应用与AWS Lambda](https://weread.qq.com/web/reader/acb32da071dbdd99acb7f9b)
 
 
 # 有用的参考
