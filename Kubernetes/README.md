@@ -236,6 +236,7 @@
 * [Manage Your Kubernetes Clusters with Built-in Best Practices---以 Azure Kubernetes Service 为例介绍了如何在托管 Kubernetes 集群上面实现高可用、高扩展、高安全、可观测的应用架构，是运行和维护 Kubernetes 应用最好的参考资料之一](https://info.microsoft.com/ww-thankyou-manage-your-kubernetes-clusters-with-built-in-best-practices-vdeo?LCID=EN-US)
 
 # 有用的参考
+* [万字长文：Kubernetes operator 模式开发实践](https://mp.weixin.qq.com/s/7LnQnASGHx8llfemfL1eQw)
 * [传统架构 vs 云原生架构，谈谈为什么我们需要云原生架构？](https://mp.weixin.qq.com/s/y9LRnHZ68-i1iPrqs1dvxg)
 * [Kubernetes vs Docker：2021年容器有哪些变化？](https://posts.careerengine.us/p/614df9961153ea348fcebd8a?from=latestPostSidePanel)
 * [k8s学习笔记-发布一个Pod](https://www.coollf.com/archives/k8s-note-pod-learn)
