@@ -12,7 +12,7 @@
 * [Kubernetes 网络权威指南：基础，原理，实践 2019](https://weread.qq.com/web/reader/829328f071a74c6182975cckc81322c012c81e728d9d180)
 * [阿里云新基建系列： 云原生操作系统Kubernetes---2021](https://weread.qq.com/web/reader/7f132120722265667f121fa)
 * [Kubernetes修练手册---2021 入门](https://weread.qq.com/web/reader/faa3296072462dc6faa52bf)
-
+* [容器即服务：从零构建企业级容器集群](https://weread.qq.com/web/reader/b9b32900716ce888b9b3f6a)
 ---
 
 [精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|
