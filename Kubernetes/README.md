@@ -13,6 +13,7 @@
 * [阿里云新基建系列： 云原生操作系统Kubernetes---2021](https://weread.qq.com/web/reader/7f132120722265667f121fa)
 * [Kubernetes修练手册---2021 入门](https://weread.qq.com/web/reader/faa3296072462dc6faa52bf)
 * [容器即服务：从零构建企业级容器集群](https://weread.qq.com/web/reader/b9b32900716ce888b9b3f6a)
+* [Kubernetes CKAD 认证实践（带你通关CKAD认证）](https://start.aliyun.com/course?spm=a2ck6.17690074.0.0.55b42e7ddKsuC0&id=0iNJ9RDH)
 ---
 
 [精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|
