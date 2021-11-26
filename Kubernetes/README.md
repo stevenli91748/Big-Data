@@ -236,6 +236,7 @@
 * [Manage Your Kubernetes Clusters with Built-in Best Practices---以 Azure Kubernetes Service 为例介绍了如何在托管 Kubernetes 集群上面实现高可用、高扩展、高安全、可观测的应用架构，是运行和维护 Kubernetes 应用最好的参考资料之一](https://info.microsoft.com/ww-thankyou-manage-your-kubernetes-clusters-with-built-in-best-practices-vdeo?LCID=EN-US)
 
 # 有用的参考
+* [kubernetes-部署Oracle数据库](https://www.kubernetes.org.cn/6498.html)
 * [全域容器化部署已成气候！](https://mp.weixin.qq.com/s/fZd5HVsopm3xExkFEUOojg)
 * [基于Kubernetes和Docker构建微服务之路](https://mp.weixin.qq.com/s/p8z64wpJP2xR7aFLnSZHlg)
 * [万字长文：Kubernetes operator 模式开发实践](https://mp.weixin.qq.com/s/7LnQnASGHx8llfemfL1eQw)
