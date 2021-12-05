@@ -6,6 +6,7 @@
 <a href="https://ibb.co/d4W0MVT"><img src="https://i.ibb.co/tpmMKvG/kubernetes1.png" alt="kubernetes1" border="0"></a>
 
 # 在线书籍
+* [Kubernetes进阶实战](https://weread.qq.com/web/reader/98f32600716bc23e98f6d96)
 * [Kubernetes从入门到实践](https://weread.qq.com/web/reader/658321f071e8dae26582f85)
 * [Kubernetes微服务实战---2019](https://weread.qq.com/web/reader/f1c32df071eeef5bf1cc214)
 * [再也不踩坑的Kubertes实战---2020](https://weread.qq.com/web/reader/49932af071a4953b49927b8kecc32f3013eccbc87e4b62e)
