@@ -19,8 +19,8 @@
 
 # 博客
 
-[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[灵魂拷问：后端业务开发要会用 K8s 到什么程度？](https://www.kubernetes.org.cn/9267.html)|
----|---|
+[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[灵魂拷问：后端业务开发要会用 K8s 到什么程度？](https://www.kubernetes.org.cn/9267.html)|[kubernetes 从入门到实践](https://www.kancloud.cn/huyipow/kubernetes)|
+---|---|---|
 
 [精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|
 ---|---|---|
