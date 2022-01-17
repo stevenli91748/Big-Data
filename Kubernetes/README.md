@@ -16,6 +16,18 @@
 * [容器即服务：从零构建企业级容器集群](https://weread.qq.com/web/reader/b9b32900716ce888b9b3f6a)
 * [Kubernetes CKAD 认证实践（带你通关CKAD认证）](https://start.aliyun.com/course?spm=a2ck6.17690074.0.0.55b42e7ddKsuC0&id=0iNJ9RDH)
 ---
+* [阿里巴巴 容器服务Kubernetes版教程](https://help.aliyun.com/document_detail/86737.html?spm=a2c4g.11186623.4.1.60ee6ea3yhNq5I)
+* [Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
+* [Kuboard v3.0 ---支持多 Kubernetes 集群管理](https://kuboard.cn/install/install-dashboard.html)
+* [Kubernetes实践指南](https://k8s.imroc.io/configuration/helm/install-helm/)
+* [Serverless Handbook——无服务架构实践手册](https://jimmysong.io/serverless-handbook/)
+* [云原生基础架构](https://jimmysong.io/cloud-native-infra/)
+* [Istio Handbook——Istio 服务网格进阶实战](https://www.servicemesher.com/istio-handbook/)
+* [移到云原生应用架构](https://jimmysong.io/migrating-to-cloud-native-application-architectures/)
+* [Hugo 静态网站构建手册--如何使用Hugo构建静态网站用于个人博客或者项目展示](https://jimmysong.io/hugo-handbook/)
+
+
+
 
 # 博客
 
