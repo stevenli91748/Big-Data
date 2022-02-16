@@ -57,6 +57,12 @@
 [使用 Java 操作 Kubernetes API](https://www.kubernetes.org.cn/8984.html)|
 ---|
 
+
+# 部署一套完整的企业级K8s集群
+
+* [部署一套完整的企业级K8s集群 v1.20]()
+* [部署一套完整的企业级K8s集群 v1.22]()
+
 # Mybird
 
 * [Kubernetes服务发现总结](https://mrbird.cc/Kubernetes-Service-Discovery-Summary.html)
