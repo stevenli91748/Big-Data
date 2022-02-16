@@ -13,7 +13,7 @@
 # 部署一套完整的企业级K8s集群
 
 * [部署一套完整的企业级K8s集群 v1.20](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E4%BE%8B%E5%AD%90/%E9%83%A8%E7%BD%B2%E4%B8%80%E5%A5%97%E5%AE%8C%E6%95%B4%E7%9A%84%E4%BC%81%E4%B8%9A%E7%BA%A7K8s%E9%9B%86%E7%BE%A4%20v1.20.md)
-* [部署一套完整的企业级K8s集群 v1.22]()
+* [部署一套完整的企业级K8s集群 v1.22](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E4%BE%8B%E5%AD%90/%E9%83%A8%E7%BD%B2%E4%B8%80%E5%A5%97%E5%AE%8C%E6%95%B4%E7%9A%84%E4%BC%81%E4%B8%9A%E7%BA%A7K8s%E9%9B%86%E7%BE%A4%20v1.22.md)
 
 ## Kubernetes部署例子
 
