@@ -37,6 +37,8 @@
 * [aws api_仅需20分钟即可在AWS上部署Kubernetes和Restful API](https://blog.csdn.net/weixin_26752759/article/details/108085349?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-3&spm=1001.2101.3001.4242)
 * [如何在AWS上部署Kubernetes集群](https://blog.csdn.net/weixin_33725807/article/details/89413234?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)
 
+### Gitlab+Jenkins+k8s+Helm 的自动化部署实践
+* [Gitlab+Jenkins+k8s+Helm 的自动化部署实践](https://mp.weixin.qq.com/s/Bu6Bme3chbFXY5bZJIF3Yg)
 
 ### k8s部署java 程序
 * [K8S 部署 Java 程序](http://www.dev-share.top/2020/08/05/k8s-%e9%83%a8%e7%bd%b2-java-%e7%a8%8b%e5%ba%8f/)
@@ -53,6 +55,13 @@
 
 ### k8s部署node.js
 * [K8s 部署node.js](http://www.dev-share.top/2019/05/28/k8s-%e9%83%a8%e7%bd%b2node-js/)
+
+### k8s部署MySQL
+* [原来K8s上跑个MySQL主从架构集群这么难](https://mp.weixin.qq.com/s/okaR6-bleKn_fbJQSfKpMA)
+
+### k8s部署Redis
+* [在Kubernetes上部署一套 Redis 集群](https://mp.weixin.qq.com/s/BnmsFs4zHoVJgPLCixKQ7A)
+
 
 ### k8s部署kafka
 * [【kafaka】在Kubernetes上使用helm部署kafka](https://www.kubernetes.org.cn/7592.html)
