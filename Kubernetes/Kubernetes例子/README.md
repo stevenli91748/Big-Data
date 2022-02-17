@@ -37,6 +37,10 @@
 * [aws api_仅需20分钟即可在AWS上部署Kubernetes和Restful API](https://blog.csdn.net/weixin_26752759/article/details/108085349?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-3&spm=1001.2101.3001.4242)
 * [如何在AWS上部署Kubernetes集群](https://blog.csdn.net/weixin_33725807/article/details/89413234?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.not_use_machine_learn_pai)
 
+### Kubernetes 实现灰度和蓝绿发布
+* [Kubernetes 实现灰度和蓝绿发布](https://mp.weixin.qq.com/s/BeWjfJuOFBYkRK378MlsGw)
+* [基于Nginx实现灰度发布与AB测试](https://mp.weixin.qq.com/s/rsYYhbBhxoHM82R1_TKu_g)
+
 ### Gitlab+Jenkins+k8s+Helm 的自动化部署实践
 * [Gitlab+Jenkins+k8s+Helm 的自动化部署实践](https://mp.weixin.qq.com/s/Bu6Bme3chbFXY5bZJIF3Yg)
 
