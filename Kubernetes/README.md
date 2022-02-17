@@ -250,8 +250,10 @@
 ---|---|
 
 # Kubernetes 视频
-
-
+## 阿良教育----是一家专门面向DevOps中高端技术人才的集训营
+* [2021最新 DevOps 全栈技术实战课（Docker/K8s/Jenkins/Python）](https://ke.qq.com/course/266656?taid=3778093751996832)
+* [Kubernetes/K8s 从入门到实战教程](https://ke.qq.com/course/2368264?taid=8879179166917384)
+---
 
 * [尚硅谷Kubernetes](https://www.bilibili.com/video/av66617940/?spm_id_from=333.788.videocard.9)
 * [Kubernetes/K8S 集群环境搭建](https://www.bilibili.com/video/av76793551?from=search&seid=18371074308858678491)
