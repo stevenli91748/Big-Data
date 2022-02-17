@@ -253,6 +253,9 @@
 ## 阿良教育----是一家专门面向DevOps中高端技术人才的集训营
 * [2021最新 DevOps 全栈技术实战课（Docker/K8s/Jenkins/Python）](https://ke.qq.com/course/266656?taid=3778093751996832)
 * [Kubernetes/K8s 从入门到实战教程](https://ke.qq.com/course/2368264?taid=8879179166917384)
+* [搭建一套企业级高可用Kubernetes/K8s集群](https://ke.qq.com/course/449782?taid=3762348402072822)
+
+
 ---
 
 * [尚硅谷Kubernetes](https://www.bilibili.com/video/av66617940/?spm_id_from=333.788.videocard.9)
