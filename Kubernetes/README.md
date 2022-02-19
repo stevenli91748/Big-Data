@@ -321,38 +321,4 @@
 * [Kubernetes Deployment 终极指南！](https://zhuanlan.zhihu.com/p/103973666?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
 
-# Mybird的博客
 
-* [Kubernetes服务发现总结](https://mrbird.cc/Kubernetes-Service-Discovery-Summary.html)
-* [Kubernetes Ingress](https://mrbird.cc/Kubernetes-Ingress.html)
-* [Kubernetes StatefulSet](https://mrbird.cc/Kubernetes-StatefulSet.html)
-* [Kubernetes StorageClass实践](https://mrbird.cc/Kubernetes-StorageClass-Practice.html)
-* [Kubernetes PV/PVC](https://mrbird.cc/Kubernetes-PV-PVC.html)
-* [Kubernetes资源管理](https://mrbird.cc/Kubernetes-Resource-Management.html)
-* [Kubernetes Namespace&Context](https://mrbird.cc/Kubernetes-Namespaces-Context.html)
-* [Kubernetes Service基础](https://mrbird.cc/Kubernetes-Service-Basic.html)
-* [Kubernetes Pod扩容与缩容](https://mrbird.cc/Kubernetes-Pod-Expansion-Contraction.html)
-* [Kubernetes Pod升级与回滚](https://mrbird.cc/Kubernetes-Pod-Upgrade-And-Rollback.html)
-* [Kubernetes Pod管理对象与调度策略](https://mrbird.cc/Kubernetes-Pod-Mananger.html)
-* [Kubernetes Pod基础](https://mrbird.cc/Kubernetes-Pod-Basic.html)
-* [Kubernetes基础](https://mrbird.cc/Kubernetes-Basic.html)
-* [Kubernetes1.16.2安装Dashboard](https://mrbird.cc/Kubernetes1-16-2-install-Dashboard.html)
-* [Kubeadm安装Kubernetes1.16.2集群](https://mrbird.cc/Kubeadm-install-Kubernetes1-16-2-cluster.html)
-
-
-
-
-
----
-
-# online gitbook
-
-* [阿里巴巴 容器服务Kubernetes版教程](https://help.aliyun.com/document_detail/86737.html?spm=a2c4g.11186623.4.1.60ee6ea3yhNq5I)
-* [Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
-* [Kuboard v3.0 ---支持多 Kubernetes 集群管理](https://kuboard.cn/install/install-dashboard.html)
-* [Kubernetes实践指南](https://k8s.imroc.io/configuration/helm/install-helm/)
-* [Serverless Handbook——无服务架构实践手册](https://jimmysong.io/serverless-handbook/)
-* [云原生基础架构](https://jimmysong.io/cloud-native-infra/)
-* [Istio Handbook——Istio 服务网格进阶实战](https://www.servicemesher.com/istio-handbook/)
-* [移到云原生应用架构](https://jimmysong.io/migrating-to-cloud-native-application-architectures/)
-* [Hugo 静态网站构建手册--如何使用Hugo构建静态网站用于个人博客或者项目展示](https://jimmysong.io/hugo-handbook/)
