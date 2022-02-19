@@ -60,6 +60,18 @@
 # 例子
 * [Kubernetes例子](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E4%BE%8B%E5%AD%90/README.md)
 
+# mall项目---https://github.com/macrozheng
+* K8S系列教程
+  * [K8S太火了！花10分钟玩转它不香么？](https://mp.weixin.qq.com/s/N-9xVPYO_VVL5JZu5UPbtQ) 
+  * [自从上了K8S，项目更新都不带停机的！](https://mp.weixin.qq.com/s/dwrxKr4ONfzCLn01QbkpQg)
+  * [我把SpringBoot应用部署到了K8S上，怎么感觉用起来像Docker！](https://mp.weixin.qq.com/s/RXAQtsNXUS2kiSCMFDxKqA)
+  * [再见命令行！K8S傻瓜式安装，图形化管理真香！](https://mp.weixin.qq.com/s/NOkaYGz9ZT3bsG1J7yXVRA)
+  * [看看人家那开源项目文档写的，那叫一个友好！](https://mp.weixin.qq.com/s/a7w2qvDg8c2BEQU7A1NqaA)
+  * [据说只有高端机器才配运行K8S，网友：1G内存的渣渣跑起来了](https://mp.weixin.qq.com/s/iDG7Wzq9DQHLFPtnqokOxQ)
+  * [再见 Docker ！5分钟转型 containerd !](https://mp.weixin.qq.com/s/jBP7E7DL5vJ0zp5UnSFNBg)
+* mall-swarm项目实践
+  * [mall-swarm微服务项目在K8S下的实践！](http://www.macrozheng.com/#/deploy/mall_swarm_deploy_k8s)
+
 
 # Mybird
 
