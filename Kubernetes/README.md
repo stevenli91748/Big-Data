@@ -31,11 +31,11 @@
 
 # 博客
 
-[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[灵魂拷问：后端业务开发要会用 K8s 到什么程度？](https://www.kubernetes.org.cn/9267.html)|[kubernetes 从入门到实践](https://www.kancloud.cn/huyipow/kubernetes)|
----|---|---|
+[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[灵魂拷问：后端业务开发要会用 K8s 到什么程度？](https://www.kubernetes.org.cn/9267.html)|[kubernetes 从入门到实践](https://www.kancloud.cn/huyipow/kubernetes)|[]()|
+---|---|---|---|
 
-[精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|
----|---|---|
+[精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|
+---|---|
 
 [Kubernetes中文社区](https://www.kubernetes.org.cn/)|[周志明 如何部署 Kubernetes 集群](https://icyfenix.cn/appendix/deployment-env-setup/setup-kubernetes/)|[Kubernetes教程](https://www.yht7.com/kubernetes)|
 ---|---|---|
@@ -54,8 +54,8 @@
 [SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇(工具部署)](https://www.kubernetes.org.cn/8078.html)|[SpringCloud 应用在 Kubernetes 上的最佳实践 —— 开发篇](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247491668&idx=1&sn=c9839f78ff31d6f5da285a259d804f53&chksm=fae6eb9bcd91628d28b0db9b53a091132df7535d320aee9c85fea241dc4e964e746b83a69dc8&scene=21#wechat_redirect)|[SpringCloud 应用在 Kubernetes 上的最佳实践 — 部署篇（开发部署）](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247492052&idx=1&sn=8ff93e6f7b398e6a509239910b61b975&scene=21#wechat_redirect)|
 ---|---|---|
 
-[使用 Java 操作 Kubernetes API](https://www.kubernetes.org.cn/8984.html)|
----|
+[使用 Java 操作 Kubernetes API](https://www.kubernetes.org.cn/8984.html)|[在程序中调用Kubernetes API操作Kubernetes](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%20API/README.md)|
+---|---|
 
 # 例子
 * [Kubernetes例子](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E4%BE%8B%E5%AD%90/README.md)
