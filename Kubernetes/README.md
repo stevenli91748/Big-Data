@@ -34,8 +34,8 @@
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[灵魂拷问：后端业务开发要会用 K8s 到什么程度？](https://www.kubernetes.org.cn/9267.html)|[kubernetes 从入门到实践](https://www.kancloud.cn/huyipow/kubernetes)|[]()|
 ---|---|---|---|
 
-[精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|
----|---|
+[精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|[kubernetes完整攻略](https://www.kancloud.cn/chriswenwu/g_k8s/1006424)|
+---|---|---|
 
 [Kubernetes中文社区](https://www.kubernetes.org.cn/)|[周志明 如何部署 Kubernetes 集群](https://icyfenix.cn/appendix/deployment-env-setup/setup-kubernetes/)|[Kubernetes教程](https://www.yht7.com/kubernetes)|
 ---|---|---|
