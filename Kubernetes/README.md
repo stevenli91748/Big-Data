@@ -7,6 +7,7 @@
 
 # 在线书籍
 * [Kubernetes权威指南: 从Docker到Kubernetes（第4版）](https://weread.qq.com/web/reader/9fc329507191463c9fcee6d)
+* [Kubernetes权威指南: 企业级容器运实战---本书基于《Kubernetes权威指南: 从Docker到Kubernetes》进行企业级容器云平台建设的实战指南  ](https://weread.qq.com/web/reader/58632870721e42b15869de9)
 * [Kubernetes进阶实战](https://weread.qq.com/web/reader/98f32600716bc23e98f6d96)
 * [Kubernetes从入门到实践](https://weread.qq.com/web/reader/658321f071e8dae26582f85)
 * [Kubernetes微服务实战---2019](https://weread.qq.com/web/reader/f1c32df071eeef5bf1cc214)
