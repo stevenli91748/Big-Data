@@ -28,7 +28,10 @@
 * [移到云原生应用架构](https://jimmysong.io/migrating-to-cloud-native-application-architectures/)
 * [Hugo 静态网站构建手册--如何使用Hugo构建静态网站用于个人博客或者项目展示](https://jimmysong.io/hugo-handbook/)
 
+# 付费Kubernetes认证在线课程
 
+* [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/learn/lecture/12299352?start=0#overview)
+* [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074?start=0#overview)
 
 
 # 博客
