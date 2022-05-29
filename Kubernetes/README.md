@@ -32,7 +32,7 @@
 
 * [Kubernetes Certified Application Developer (CKAD) with Tests](https://www.udemy.com/course/certified-kubernetes-application-developer/learn/lecture/12299352?start=0#overview)
 * [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074?start=0#overview)
-
+* [【2022】云原生Kubernetes全栈架构师：基于世界500强的k8s实战课程](https://edu.51cto.com/course/23845.html)
 
 # 博客
 
