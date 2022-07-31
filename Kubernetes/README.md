@@ -307,6 +307,7 @@
 * [kubernetes中文社区](https://www.kubernetes.org.cn/)
 * [Kubernetes教程之新手安装必看（快速浏览少走弯路）](https://segmentfault.com/a/1190000022809164)
 * [手摸手教你从开发到部署(CI/CD)GO微服务系列](https://learnku.com/docs/go-micro-build/1.0/kubernetes-1804-cluster-installation-tutorial-based-on-centos7/8877)
+* [如何用 Kubernetes 实现 CI/CD 发布流程？](https://mp.weixin.qq.com/s/LlSilgC6s8P3J9N0SRw3xA)
 * [k8S 搭建集群](https://www.shuzhiduo.com/A/Ae5RKvVYdQ/)
 * [Kubernetes 是什么？](https://kubernetes.io/zh/docs/concepts/overview/what-is-kubernetes/)
 * [分享我的k8s学习过程](https://zhuanlan.zhihu.com/p/262181124?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
