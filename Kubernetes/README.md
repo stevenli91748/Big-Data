@@ -40,8 +40,8 @@
 
 # 博客
 
-[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[kubernetes 从入门到实践](https://www.kancloud.cn/huyipow/kubernetes)|[k8s原理与实践](https://www.kancloud.cn/pm1028/kubenetes)|
----|---|---|
+[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[kubernetes 从入门到实践](https://www.kancloud.cn/huyipow/kubernetes)|[k8s原理与实践](https://www.kancloud.cn/pm1028/kubenetes)|[基于 Kubernetes 的微服务项目设计与实现](https://mp.weixin.qq.com/s/O3JdCk9MM2Slpr4xsnZipA)|
+---|---|---|---|
 
 [精尽 Kubernetes 学习指南](http://svip.iocoder.cn/Kubernetes/tutorials/)|[Kubernetes 中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)|[kubernetes完整攻略](https://www.kancloud.cn/chriswenwu/g_k8s/1006424)|
 ---|---|---|
