@@ -132,7 +132,7 @@
   * 服务器最小配置（Master节点 2C4G * 3 ,Node节点 2C4G * 3）
   * 生产环境K8s的版本选择（一般是选择宫网当前最新版本的第三个版本号，1.24以上不支持DOCKER，支持ContainD)
 * 二种主要的安装方式
-  * Kubeadm高可用安装k8s集群
+  * [Kubeadm高可用安装k8s集群](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/1%20%E5%AE%89%E8%A3%85%E7%AF%87/Kubeadm%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85k8s%E9%9B%86%E7%BE%A4.md)
   * 二进制高可用安装k8s集群（生产环境的安装方式）
 ## 基础篇
 ## 进阶篇
