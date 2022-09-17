@@ -126,6 +126,19 @@
 
 # 目录
 
+## 安装篇
+* Kubeadm高可用安装k8s集群
+* 二进制高可用安装k8s集群（生产环境的安装方式）
+## 基础篇
+## 进阶篇
+## 高级篇
+## 运维篇
+## DevOps篇
+## 知识拓展
+
+----
+
+、
 * [kubertes命令]()
 * [Kubernetes实验](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E5%AE%9E%E9%AA%8C/README.md)
 * [Kubernetes例子](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/Kubernetes%E4%BE%8B%E5%AD%90/README.md)
