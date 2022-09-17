@@ -127,7 +127,7 @@
 # 目录
 
 ## 安装篇
-* 安装前的必会的知识
+* **安装前注意的知识点**
   * **K8s集群的三个网段（主机节点网段， Service网段，Pod网段）的IP不能冲突, 主机节点网段的IP不能用DHCP分配，必需要用静态IP**
   * 服务器最小配置（Master节点 2C4G * 3 ,Node节点 2C4G * 3）
   * 生产环境K8s的版本选择（一般是选择宫网当前最新版本的第三个版本号，1.24以上不支持DOCKER，支持ContainD)
@@ -135,6 +135,8 @@
   * [Kubeadm高可用安装k8s集群](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/1%20%E5%AE%89%E8%A3%85%E7%AF%87/Kubeadm%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85k8s%E9%9B%86%E7%BE%A4.md)
   * [二进制高可用安装k8s集群（生产环境的安装方式）](https://github.com/stevenli91748/Big-Data/blob/master/Kubernetes/1%20%E5%AE%89%E8%A3%85%E7%AF%87/%E4%BA%8C%E8%BF%9B%E5%88%B6%E9%AB%98%E5%8F%AF%E7%94%A8%E5%AE%89%E8%A3%85k8s%E9%9B%86%E7%BE%A4%EF%BC%88%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%9A%84%E5%AE%89%E8%A3%85%E6%96%B9%E5%BC%8F%EF%BC%89.md)
 ## 基础篇
+* 必备容器基础---Docker
+* K8S的基本概念
 ## 进阶篇
 ## 高级篇
 ## 运维篇
