@@ -147,6 +147,20 @@
     * 高可用
     * 负载均衡
     * 故障自动恢复  
+  * K8S的架构
+    * 注意的知识点
+      *   
+    * 主节点
+      * API-Server
+      * ControllManager
+      * Scheduler
+      * kubelet
+      * kube-proxy 
+    * 工作节点
+      * kubelet
+      * kube-proxy 
+    * Etcd
+    * Kubectl 
 ## 进阶篇
 ## 高级篇
 ## 运维篇
