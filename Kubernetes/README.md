@@ -40,6 +40,9 @@
 
 # 博客
 
+[2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目](https://github.com/0voice/k8s_awesome_document)|
+---|
+
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[kubernetes 从入门到实践](https://www.kancloud.cn/huyipow/kubernetes)|[k8s原理与实践](https://www.kancloud.cn/pm1028/kubenetes)|[基于 Kubernetes 的微服务项目设计与实现](https://mp.weixin.qq.com/s/O3JdCk9MM2Slpr4xsnZipA)|[K8s 超详细总结！](https://mp.weixin.qq.com/s/Vuz16ecuj9dVfgB9gvFf2A)|
 ---|---|---|---|---|
 
